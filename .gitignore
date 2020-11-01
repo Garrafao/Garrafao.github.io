@@ -1,6 +1,3 @@
 update-git.sh
 publications/publications.bib
-*.sh
-*.py
-*/*.sh
-*/*.py
+ignore
