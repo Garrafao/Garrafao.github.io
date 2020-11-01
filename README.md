@@ -1,3 +1,3 @@
-# Dominik Schlechtweg
+# Personal Website
 
-Test
+Website of Dominik Schlechtweg
