@@ -5,4 +5,4 @@ I'm a PhD student working together with [Sabine Schulte im Walde](https://www.im
 
 ### Publications
 
-#include "publications.md"
+Find a list of my publications [here](publications.md).
