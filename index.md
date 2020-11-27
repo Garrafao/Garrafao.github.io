@@ -1,4 +1,4 @@
-# <title>Dominik Schlechtweg</title>
+title: Dominik Schlechtweg
 
 I'm a PhD student at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I hold a PhD scholarship from Konrad Adenauer Foundation and I work in the Center for Reflected Text Analytics (CRETA).
 
@@ -7,8 +7,9 @@ I'm a PhD student at the IMS (University of Stuttgart) working together with [Sa
 ### News
 
 - January 18, 2021: I was invited by Christin Beck and Miriam Butt to give a talk at SFB-TRR 161 (University of Konstanz).    [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
+- November 25, 2020: I was invited by Simon Hengchen and Nina Tahmasebi to give an invited talk at the 2nd Workshop on Computational Detection of Language Change 2020 at the University of Gothenburg.   [[slides]](publications/201125-wugs-slides.pdf)  [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
 - November 10, 2020: One of our teams won the DIACR-Ita Shared Task on lexical semantic change detection in Italian.  [[pdf]](https://arxiv.org/abs/2011.03258)   [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/news/IMS-team-wins-DIACR-Ita-Shared-Task/)
-- October 27, 2020: I organized a small international online workshop on automatic detection of semantic change.   [[slides]](publications/201027-semeval-slides.pdf)  [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/)
+- October 27, 2020: I organized a small international online workshop on automatic detection of semantic change.   [[slides]](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/)  [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/)
 
 ### Projects
 
