@@ -1,4 +1,4 @@
-title: Dominik Schlechtweg
+# Dominik Schlechtweg
 
 I'm a PhD student at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I hold a PhD scholarship from Konrad Adenauer Foundation and I work in the Center for Reflected Text Analytics (CRETA).
 
