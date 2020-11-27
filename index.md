@@ -1,13 +1,14 @@
-# Dominik Schlechtweg
+# <title>Dominik Schlechtweg</title>
 
-I'm a PhD student at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I hold a PhD scholarship from Konrad Adenauer Foundation and I work in the [Center for Reflected Text Analytics (CRETA)](https://www.creta.uni-stuttgart.de/en/).
+I'm a PhD student at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I hold a PhD scholarship from Konrad Adenauer Foundation and I work in the Center for Reflected Text Analytics (CRETA).
+
+
 
 ### News
 
-- I was invited by Christin Beck and Miriam Butt to give a talk at the University of Constance on **January 18, 2021**.
-- I was invited by Simon Hengchen and Nina Tahmasebi to give an invited talk at the [2nd Workshop on Computational Detection of Language Change 2020](https://languagechange.org/events/2020-sltc-lcworkshop/) at the University of Gothenburg on **November 25, 2020**.
-- November 10, 2020: One of our teams won the [DIACR-Ita Shared Task](https://diacr-ita.github.io/DIACR-Ita/) on lexical semantic change detection in Italian. Find more information and the paper [here](https://www.ims.uni-stuttgart.de/en/institute/news/news/IMS-team-wins-DIACR-Ita-Shared-Task/).
-- On October 27, 2020 I organized a small international online workshop on automatic detection of semantic change. Slides are now available on [the website](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/).
+- January 18, 2021: I was invited by Christin Beck and Miriam Butt to give a talk at SFB-TRR 161 (University of Konstanz).    [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
+- November 10, 2020: One of our teams won the DIACR-Ita Shared Task on lexical semantic change detection in Italian.  [[pdf]](https://arxiv.org/abs/2011.03258)   [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/news/IMS-team-wins-DIACR-Ita-Shared-Task/)
+- October 27, 2020: I organized a small international online workshop on automatic detection of semantic change.   [[slides]](publications/201027-semeval-slides.pdf)  [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/)
 
 ### Projects
 
@@ -19,8 +20,9 @@ I'm a PhD student at the IMS (University of Stuttgart) working together with [Sa
 
 ### Talks
 
+- **Sparse Usage Graphs as Model for Word Meaning in Context**. Keynote Talk at 2nd Workshop on Computational Detection of Language Change 2020, University of Gothenburg, November 25th, 2020.  [[slides]](publications/201125-wugs-slides.pdf)  [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
 - **Second-order Co-occurrence Sensitivity of Skip-Gram with Negative Sampling**. Invited Talk at CIS, LMU Munich, July 24th, 2019.  [[slides]](publications/190723-slides-second-order.pdf)  [[link]](https://www.cis.uni-muenchen.de/~fraser/topics_nlp_2019_SS/)
-- **Sparse Usage Graphs as Model for Word Meaning in Context**. Invited Talk at 2nd Workshop on Computational Detection of Language Change 2020, University of Gothenburg, November 25th, 2020.   [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
+
 
 
 ### Publications
@@ -40,3 +42,4 @@ I'm a PhD student at the IMS (University of Stuttgart) working together with [Sa
 - Vered Shwartz, Enrico Santus, Dominik Schlechtweg. 2017. **Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection**. Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics, Valencia, Spain, 65-75.     [[bib]](publications/bib/Shwartz2017.bib) 
 - Dominik Schlechtweg, Stefanie Eckmann, Enrico Santus, Sabine Schulte im Walde, Daniel Hole. 2017. **German in Flux: Detecting Metaphoric Change via Word Entropy**. Proceedings of the 21st Conference on Computational Natural Language Learning, 354-367.     [[bib]](publications/bib/schlechtweg-EtAl-2017-CoNLL.bib) 
 - Dominik Schlechtweg. 2016. **Exploitation of Co-reference in Distributional Semantics**. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016).     [[bib]](publications/bib/schlechtweg16.bib) 
+
