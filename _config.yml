@@ -33,7 +33,7 @@ plugins             : []
 
 
 # Theme
-theme             : Minimal
+theme: jekyll-theme-minimal
 
 # Conversion
 markdown            : kramdown
