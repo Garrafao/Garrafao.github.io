@@ -30,22 +30,28 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **Human and Computational Measurement of Lexical Semantic Change**.  
+Keynote Talk at 3rd Workshop on Computational Detection of Language Change 2022 @ ACL, Dublin, May 26th, 2022.  
+ [[slides]](publications/220324-thesis-slides.pdf)   [[link]](https://languagechange.org/events/2022-acl-lchange/)
+- **Human and Computational Measurement of Lexical Semantic Change**.  
+PhD Defense Talk at IMS, University of Stuttgart, March 24th, 2022.  
+ [[slides]](publications/220324-thesis-slides.pdf)   
 - **DURel Annotation Tool**.  
-Talk at StuTS 69 + TaCoS 2021 (Online), May 9, 2021.  
- [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/stubs/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://talks.stuts.de/en/stuts69/public/events/512)
+Talk at StuTS 69 + TaCoS 2021 (Online), May 9th, 2021.  
+ [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://talks.stuts.de/en/stuts69/public/events/512)
 - **State-of-the-art models in lexical semantic change detection**.  
-Invited Talk at SFB-TRR 161 (University of Konstanz), January 18, 2021.  
+Invited Talk at SFB-TRR 161 (University of Konstanz), January 18th, 2021.  
  [[slides]](publications/210118-sota-lscd-slides.pdf)   [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
 - **Sparse Usage Graphs as Model for Word Meaning in Context**.  
 Keynote Talk at 2nd Workshop on Computational Detection of Language Change 2020, University of Gothenburg, November 25th, 2020.  
  [[slides]](publications/201125-wugs-slides.pdf)   [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
 - **Efficient Manual Word Sense Clustering on Historical Corpora**.  
-Invited Talk at The Alan Turing Institute (London), November 11, 2019.  
+Invited Talk at The Alan Turing Institute (London), November 11th, 2019.  
 - **Second-order Co-occurrence Sensitivity of Skip-Gram with Negative Sampling**.  
 Invited Talk at CIS, LMU Munich, July 24th, 2019.  
  [[slides]](publications/190723-slides-second-order.pdf)   [[link]](https://www.cis.uni-muenchen.de/~fraser/topics_nlp_2019_SS/)
 - **A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains**.  
-Invited Talk at University of Helsinki, February 10, 2019.  
+Invited Talk at University of Helsinki, February 10th, 2019.  
  [[slides]](publications/190626-slides-woc.pdf)   [[link]](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/workshop-on-lexical-semantic-change)
 - **Comparing Annotation Frameworks for Lexical Semantic Change**.  
 Talk at 1st Workshop on Computational Detection of Language Change 2018, University of Gothenburg, November 7th, 2018.  
@@ -58,6 +64,14 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
+- **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**. 2022.  
+Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg  
+ Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change  
+ [[pdf]](https://aclanthology.org/2022.lchange-1.16/)      [[bib]](publications/bib/Zamora2022lscd.bib) 
+- **DiaWUG: A Dataset for Diatopic Lexical Semantic Variation in Spanish**. 2022.  
+Gioia Baldissin, Dominik Schlechtweg, Sabine Schulte im Walde  
+ Proceedings of the 13th Language Resources and Evaluation Conference  
+  [[slides]](publications/220607-diawug-slides.pdf)     [[bib]](publications/bib/Baldissin2022diawug.bib) 
 - **Modeling Sense Structure in Word Usage Graphs with the Weighted Stochastic Block Model**. 2021.  
 Dominik Schlechtweg, Enrique Castaneda, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of *SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics, 241-251  
@@ -65,7 +79,7 @@ Dominik Schlechtweg, Enrique Castaneda, Jonas Kuhn, Sabine Schulte im Walde
 - **Lexical Semantic Change Discovery**. 2021.  
 Sinan Kurtyigit, Maike Park, Dominik Schlechtweg, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)  
-  [[slides]](publications/210707-discovery-slides.pdf)   [[video]](https://underline.io/lecture/25774-lexical-semantic-change-discovery)   [[bib]](publications/bib/Kurtyigit2021discovery.bib) 
+ [[pdf]](https://aclanthology.org/2021.acl-long.543/)  [[slides]](publications/210707-discovery-slides.pdf)   [[video]](https://underline.io/lecture/25774-lexical-semantic-change-discovery)   [[bib]](publications/bib/Kurtyigit2021discovery.bib) 
 - **More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods**. 2021.  
 Thomas Bott, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Findings)  
@@ -168,6 +182,7 @@ Dominik Schlechtweg
   [[slides]](publications/200115-kiezdeutsch-slides.pdf)   
 - Gioia Baldissin  
 **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).  
+  [[slides]](publications/220607-diawug-slides.pdf)   
 - Christian Bartsch  
 **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).  
 - Thomas Bott  
