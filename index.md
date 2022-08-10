@@ -67,11 +67,11 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 - **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**. 2022.  
 Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg  
  Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change  
- [[pdf]](https://aclanthology.org/2022.lchange-1.16/)      [[bib]](publications/bib/Zamora2022lscd.bib) 
+ [[pdf]](https://aclanthology.org/2022.lchange-1.16/)  [[slides]](publications/220527-slides-lscdiscovery.pdf)     [[bib]](publications/bib/Zamora2022lscd.bib) 
 - **DiaWUG: A Dataset for Diatopic Lexical Semantic Variation in Spanish**. 2022.  
 Gioia Baldissin, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the 13th Language Resources and Evaluation Conference  
-  [[slides]](publications/220607-diawug-slides.pdf)     [[bib]](publications/bib/Baldissin2022diawug.bib) 
+  [[slides]](publications/220607-diawug-slides.pdf)  [[poster]](publications/220615-diawug-poster.pdf)    [[bib]](publications/bib/Baldissin2022diawug.bib) 
 - **Modeling Sense Structure in Word Usage Graphs with the Weighted Stochastic Block Model**. 2021.  
 Dominik Schlechtweg, Enrique Castaneda, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of *SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics, 241-251  
@@ -83,7 +83,7 @@ Sinan Kurtyigit, Maike Park, Dominik Schlechtweg, Jonas Kuhn, Sabine Schulte im 
 - **More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods**. 2021.  
 Thomas Bott, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Findings)  
-      [[bib]](publications/bib/Bott2021frequency.bib) 
+ [[pdf]](https://aclanthology.org/2021.findings-acl.16/)      [[bib]](publications/bib/Bott2021frequency.bib) 
 - **Regression Analysis of Lexical and Morpho-Syntactic Properties of Kiezdeutsch**. 2021.  
 Diego Frassinelli, Gabriella Lapesa, Reem Alatrash, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the Eighth Workshop on NLP for Similar Languages, Varieties and Dialects, 21-27  
@@ -127,7 +127,7 @@ Reem Alatrash, Dominik Schlechtweg, Jonas Kuhn, Sabine Schulte im Walde
 - **Shared Task: Lexical Semantic Change Detection in German**. 2020.  
 Adnan Ahmad, Kiflom Desta, Fabian Lang, Dominik Schlechtweg  
  CoRR  
-      [[bib]](publications/bib/AhmadEtal2020.bib) 
+ [[pdf]](https://arxiv.org/abs/2001.07786)      [[bib]](publications/bib/AhmadEtal2020.bib) 
 - **Predicting Degrees of Technicality in Automatic Terminology Extraction**. 2020.  
 Anna Hätty, Dominik Schlechtweg, Michael Dorna, Sabine Schulte im Walde  
  Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics  
@@ -159,7 +159,7 @@ Dominik Schlechtweg, Sabine Schulte im Walde, Stefanie Eckmann
 - **Distribution-based prediction of the degree of grammaticalization for German prepositions**. 2018.  
 Dominik Schlechtweg, Sabine Schulte im Walde  
  The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)  
-      [[bib]](publications/bib/SchlechtwegWalde18.bib) 
+ [[pdf]](https://arxiv.org/abs/1804.06719)      [[bib]](publications/bib/SchlechtwegWalde18.bib) 
 - **Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection**. 2017.  
 Vered Shwartz, Enrico Santus, Dominik Schlechtweg  
  Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics, Valencia, Spain, 65-75  
@@ -171,7 +171,7 @@ Dominik Schlechtweg, Stefanie Eckmann, Enrico Santus, Sabine Schulte im Walde, D
 - **Exploitation of Co-reference in Distributional Semantics**. 2016.  
 Dominik Schlechtweg  
  Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)  
-      [[bib]](publications/bib/schlechtweg16.bib) 
+ [[pdf]](https://aclanthology.org/L16-1022/)      [[bib]](publications/bib/schlechtweg16.bib) 
 
 </details>
 <details>
@@ -180,16 +180,26 @@ Dominik Schlechtweg
 - Reem Alatrash  
 **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).  
   [[slides]](publications/200115-kiezdeutsch-slides.pdf)   
+- Maria Vittoria Ateri  
+**Organization of human annotation processes** (Student researcher).  
 - Gioia Baldissin  
 **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).  
   [[slides]](publications/220607-diawug-slides.pdf)   
+- Pedro G. Bascoy  
+**DURel Annotation Tool** (Student researcher).  
+ [[pdf]](https://www.ims.uni-stuttgart.de/data/durel-tool)    
 - Christian Bartsch  
 **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).  
 - Thomas Bott  
 **Unsupervised Models of Hypernymy for German Subordinate Noun Phrases** (Bachelor thesis).  
   [[slides]](publications/211214-demasking-slides.pdf)   
+- Andres Cabero  
+**Computational annotators of semantic proximity** (Student researcher).  
 - Enrique Castaneda  
 **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).  
+- Nishan Chatterjee  
+**DURel Annotation Tool** (Student researcher).  
+ [[pdf]](https://www.ims.uni-stuttgart.de/data/durel-tool)    
 - Vaibhav Jain  
 **Historical Word Sense Induction** (Internship).  
 - Jens Kaiser  
@@ -208,7 +218,13 @@ Dominik Schlechtweg
 **Lexical Semantic Change Detection in Spanish** (PhD thesis).  
 - Benjamin Tunc  
 **Optimierung von Clustering von Wortverwendungsgraphen** (Bachelor thesis).  
-  [[slides]](publications/211201-optimierung-wugs.pdf)   
+ [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11923)  [[slides]](publications/211201-optimierung-wugs.pdf)   
+- Lukas Theuer Linke  
+**Visualization of Word Usage Graphs** (Bachelor thesis).  
+- Nash Whaley  
+**Standardization of semantic annotation processes** (Student researcher).  
+- Tuo Zhang  
+**Automating computational annotation of semantic proximity** (Student researcher).  
 
 </details>
 <details>
@@ -225,6 +241,8 @@ tba
 - **Adjustment of sense granularity for clustering on Word Usage Graphs**  
 [Word Usage Graphs](https://www.ims.uni-stuttgart.de/data/wugs) represent uses of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity. These can be clustered to infer word senses on the graph. Adjusting parameters on existing clustering approaches should allow to infer word senses of varying granularity. The process of the thesis shall be to review literature on sense granularity and clustering, create a small data set of word sense definitions with different granularities, and to evaluate clustering solutions obtained on the graphs against the data set.
 - **Comparison of visualization techniques for Word Usage Graphs**  
+tba
+- **Estimation of Jensen Shannon Divergence for skewed probability distributions**  
 tba
 
 </details>
