@@ -1,26 +1,16 @@
 # Dominik Schlechtweg
 
-I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. Since February 2022 I am a post-doctoral researcher at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/en/institute/news/news/6-year-research-project-Change-is-key-accepted/). Currently, I am doing a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin.
+I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022 I am a post-doctoral researcher at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/).
 
-<details>
-<summary>News</summary>
-
-- November 27, 2021: We will organize a shared task on semantic change detection in Spanish at next year's LChange workshop (ACL). More information to come.  
-- October 28, 2021: Our application for the 6-year research program **Change is Key!** was accepted!  
-    [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/news/6-year-research-project-Change-is-key-accepted/)
-- May 20, 2021: We finally published *DWUG: A large Resource of Diachronic Word Usage Graphs in Four Languages*.  
- [[pdf]](https://arxiv.org/abs/2104.08540)    [[link]](https://www.ims.uni-stuttgart.de/data/wugs)
-
-</details>
 <details>
 <summary>Projects</summary>
 
-- **Word Usage Graphs**  
-    [[link]](https://www.ims.uni-stuttgart.de/data/wugs)
-- 6-year research program **Change is Key!**  
-    [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/news/6-year-research-project-Change-is-key-accepted/)
-- **International online workshop on automatic detection of semantic change**  
-  [[slides]](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/)   [[link]](https://www.ims.uni-stuttgart.de/en/institute/news/event/Online-Workshop-on-Automatic-Detection-of-Semantic-Change/)
+- **Word Usage Graphs** represent usages of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity.  
+    [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/wugs)
+- **DURel Annotation Tool** to obtain word usage graphs from human annotations  
+  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
+- **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**  
+ [[pdf]](https://aclanthology.org/2022.lchange-1.16/)    [[link]](https://fdzr.github.io/lscdiscovery/)
 - **SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection**  
  [[pdf]](https://www.aclweb.org/anthology/2020.semeval-1.1/)  [[slides]](publications/201027-semeval-slides.pdf)   
 - **Workshop on Empirical Studies of Word Sense Divergences across Language Varieties**  
@@ -30,6 +20,9 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **DURel Annotation Tool - Prospects on a Workbench for Lexicographers**.  
+Talk at Kick-Off Event of the RJ Research Program "Change is Key!", Gothenburg, September 8th, 2022.  
+ [[slides]](publications/220908-slides-durel-tool.pdf)   [[link]](https://www.changeiskey.org/talk/kick-off-conference-day/)
 - **Human and Computational Measurement of Lexical Semantic Change**.  
 Keynote Talk at 3rd Workshop on Computational Detection of Language Change 2022 @ ACL, Dublin, May 26th, 2022.  
  [[slides]](publications/220324-thesis-slides.pdf)   [[link]](https://languagechange.org/events/2022-acl-lchange/)
@@ -180,7 +173,7 @@ Dominik Schlechtweg
 - Reem Alatrash  
 **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).  
   [[slides]](publications/200115-kiezdeutsch-slides.pdf)   
-- Maria Vittoria Ateri  
+- Tejaswi Choppa  
 **Organization of human annotation processes** (Student researcher).  
 - Gioia Baldissin  
 **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).  
@@ -228,21 +221,27 @@ Dominik Schlechtweg
 
 </details>
 <details>
-<summary>Open thesis topics (please approach me if interested)</summary>
+<summary>Open thesis topics (please approach [me](https://www.ims.uni-stuttgart.de/institut/team/Schlechtweg/) if interested)</summary>
 
 - **Detection of ambiguous word usages**  
-tba
-- **Detection of sense number in word usage samples**  
-tba
+Many word usages are ambiguous. Often such usages are are regarded as noise and removed from datasets. However, in lexicographic analysis such usages represent rather interesting cases, as they may be instances of a new sense. The student shall review relevant literature, define an ambiguity detection task and use recent word sense annotation [datasets](https://www.ims.uni-stuttgart.de/data/wugs) and evaluate models on these tasks. The best models shall be implemented as annotators for an online system.
+- **Detection of semantic variation and sense number in word usage samples**  
+Detecting the semantic variation in word usage samples is not a usual NLP task. However, semantic variation is a useful input to lexicographic analysis, where it can be used as a starting point to discover words with new senses. The student shall proceed by reviewing the literature on semantic variation, defining various tasks based on different measures of semantic variation (e.g. number of senses or average semantic proximity), and adapting and evaluate [Word-in-Context models](https://www.dialog-21.ru/media/5491/arefyevnplusetal133.pdf) on these tasks. The best models shall be implemented as annotators for an online system.
 - **Detection of sense-representative uses in word usage samples**  
 Word senses can be seen as sets of word uses with similar meanings. For the purpose of human annotation of these word senses or their description in dictionaries it can be helpful to pick representative uses from each word sense cluster, and even more helpful to do this automatically. Such a representative use should fulfill requirements such as clarity, non-ambiguity and agreement between annotators. I am not aware of any systematic approaches to automatically detect sense-representative word uses. The process of the thesis shall be to review literature, define the concept of sense-representativeness, create a small data set, define a task on the data set, define models for the task based on WSI and to evaluate these models on the task. The starting point can be the existing [RefWUG](https://www.ims.uni-stuttgart.de/data/wugs) data set using sense-representative uses.
 - **Detection of annotation bots for semantic annotation systems**  
-tba
+Online annotation services have the problem that automatic annotation bots imitate humans to create a large number of "fake" annotations generating large revenues for the attacker. The aim of the thesis will be to detect such annotation bots in the [DURel annotation tool](https://www.ims.uni-stuttgart.de/data/durel-tool) by analysing output of human and computational annotators. The outcome shall be an automatic detection mechanism in the DURel tool.
+- **Implementation of computational annotators for lexicographic tasks**  
+A number of lexical semantic NLP tasks are relevant for lexicography, amongst them the [Word-in-Context](https://aclanthology.org/N19-1128/) task asking to predict whether two uses of a word have the same meaning and the [Lexical Semantic Change Detection](https://aclanthology.org/2020.semeval-1.1/) task asking to predict whether two time-specific samples of uses have the same sense distribution. The aim of the thesis is to implement and evaluate simple and robust computational models for a range of lexicography-related semantic tasks (see open topics below), to integrate these into an online interface for lexicographic analysis and to evaluate the usefulness of the models for everyday lexicography.
+- **Open topics on computational lexical semantics and lexicography**  
+Any topic of your choice with regard the below-mentioned lexical semantic tasks:<br> <br> *Use-level*<br> - Word Sense Induction (WSI), based on WiC annotation<br> - Word Sense Disambiguation (WSD)<br> - Lexical Replacement Annotation<br> - Abstractness Level Annotation<br> - Sentiment Level Annotation<br> - Ambiguity Annotation<br> <br> *Use-pair-level*<br> - Semantic Proximity Annotation (aka Word-in-Context, WiC)<br> - Semantic Relation Annotation (SRA)<br> <br> *Lemma-level*:<br> - Lexical Semantic Change Detection (LSCD), based on WSI or WSD<br> - Number of Senses Detection, based on WSI or WSD<br> - Change Type Detection, based on WSI or WSD + SRA<br> <br> *Sense-level*:<br> - Detection of Sense-Representative Uses, based on WSI or WSD<br> - Generation of Sense Descriptions, based on WSI or WSD<br> <br>
+- **Prediction explanation for Lexical Semantic Change Detection**  
+The [LSCDBenchmark](https://github.com/Garrafao/LSCDBenchmark) implements various automatic models of Lexical Semantic Change Detection to predict binary or graded change labels for target words from their uses from different time periods. However, historical linguists are not only interested in the question *whether* a word changed, but also *how* it changed [[1]](https://arxiv.org/abs/2101.07668v1). The aim of the thesis is to derive descriptions of the senses which were lost/gained or changed in frequency from model predictions, to detect sense/change representative uses and information on the semantic relation of old and new senses.
+- **Annotation disagreement detection in Word Usage Graphs**  
+Traditionally, annotator disagreements have been regarded as noise and were removed from data sets, but [recent approaches](https://pure.itu.dk/portal/en/publications/learning-from-disagreement-a-survey) try to treat disagreements as signal, using them for model training. Word sense annotation is an annotation task yielding comparably low inter-annotator agreement. The aim of the thesis is to analyze disagreements in recent word sense annotation [datasets](https://www.ims.uni-stuttgart.de/data/wugs) representing uses of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity. These can be clustered to infer word senses on the graph. The thesis shall examine how annotator disagreements can be detected an how they can be exploited to [infer word senses on the annotated graphs](https://aclanthology.org/2021.emnlp-main.567/).
 - **Adjustment of sense granularity for clustering on Word Usage Graphs**  
 [Word Usage Graphs](https://www.ims.uni-stuttgart.de/data/wugs) represent uses of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity. These can be clustered to infer word senses on the graph. Adjusting parameters on existing clustering approaches should allow to infer word senses of varying granularity. The process of the thesis shall be to review literature on sense granularity and clustering, create a small data set of word sense definitions with different granularities, and to evaluate clustering solutions obtained on the graphs against the data set.
-- **Comparison of visualization techniques for Word Usage Graphs**  
-tba
 - **Estimation of Jensen Shannon Divergence for skewed probability distributions**  
-tba
+The Jensen Shannon Divergence (JSD) between word sense distributions is an important measure of semantic change [[1]](https://aclanthology.org/2020.semeval-1.1/). Interestingly, it can be approximated from pairwise usage distances avoiding the need to cluster usages [[2]](http://www.dialog-21.ru/media/5492/arefyevnvplusbykovda134.pdf). The aim of the thesis is to formulate various approximations of the JSD and to estimate their bias empirically.
 
 </details>
