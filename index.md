@@ -1,7 +1,14 @@
 # Dominik Schlechtweg
 
 I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022 I am a post-doctoral researcher at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/).
+<details>
+<summary>Interests</summary>
 
+- optimization of human text data annotation processes  
+- automation of lexicographic processes  
+- application of lexical semantic computational models  
+
+</details>
 <details>
 <summary>Projects</summary>
 
