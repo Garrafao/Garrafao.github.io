@@ -1,10 +1,12 @@
 # Dominik Schlechtweg
 
-I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022 I am a post-doctoral researcher at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/).
+I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022, I am an independent [research group leader](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/cik/) at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/). I am also the leader of the [PhiTag](https://phitag.ims.uni-stuttgart.de/) project where we develop an open source text annotation platform.
+
+ [Email](https://www.ims.uni-stuttgart.de/institut/team/Schlechtweg-00003/), [Github](https://github.com/Garrafao), [Google Scholar](https://scholar.google.com/citations?hl=en&user=7JjqFPoAAAAJ), [LinkedIn](https://www.linkedin.com/in/dominik-schlechtweg-594935254/)
 <details>
 <summary>Interests</summary>
 
-- optimization of human text data annotation processes  
+- optimization of human text data annotation processes (see [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://www.ims.uni-stuttgart.de/data/durel-tool))  
 - automation of lexicographic processes  
 - application of lexical semantic computational models  
 - statistical modeling of word meaning  
@@ -13,21 +15,25 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Projects</summary>
 
+- **PhiTag**: An open-source text annotation platform.  
+    [[link]](https://phitag.ims.uni-stuttgart.de/)
+- **DURel Tool**: An annotation tool for semantic proximity between use pairs.  
+  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
 - **Word Usage Graphs** represent usages of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity.  
     [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/wugs)
-- **DURel Annotation Tool** to obtain word usage graphs from human annotations  
-  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
-- **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**  
- [[pdf]](https://aclanthology.org/2022.lchange-1.16/)    [[link]](https://fdzr.github.io/lscdiscovery/)
-- **SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection**  
- [[pdf]](https://www.aclweb.org/anthology/2020.semeval-1.1/)  [[slides]](publications/201027-semeval-slides.pdf)   
-- **Workshop on Empirical Studies of Word Sense Divergences across Language Varieties**  
-    [[link]](https://www.ims.uni-stuttgart.de/events/dgfs-20-ws/)
+- **Logic in Linguistics**: I am developing ILIAS-based interactive learning materials for logic in linguistics including learning modules, pools of questions and corresponding paper handouts. Topics include *Arguments and argument schemata*, *Sets, relations and functions*, *Propositional logic*, *Predicate logic* and *Theory of types with lambda operator*. Feel free to approach me if you want to use them outside of ILIAS-Stuttgart. All materials are in German.  
+    [[link]](https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_grp_974913.html)
 
 </details>
 <details>
 <summary>Talks (selected)</summary>
 
+- **The LSCD Benchmark -- a test bed for diachronic meaning tasks**.  
+Talk at Workshop on Computational models of diachronic language change, 26th International Conference on Historical Linguistics at the University of Heidelberg, Germany, September 7th, 2023.  
+   [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
+- **The operationalization of word senses**.  
+Talk at Workshop on "Measuring Meanings - Computing Concepts. Practices of Operationalization and their Implications for Text Studies" in Cologne, Germany, September 25th, 2023.  
+   [[link]](https://cretaverein.de/mmcc/cfp.html)
 - **DURel Annotation Tool - Prospects on a Workbench for Lexicographers**.  
 Talk at Kick-Off Event of the RJ Research Program "Change is Key!", Gothenburg, September 8th, 2022.  
  [[slides]](publications/220908-slides-durel-tool.pdf)   [[link]](https://www.changeiskey.org/talk/kick-off-conference-day/)
@@ -65,10 +71,14 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
+- **Human and Computational Measurement of Lexical Semantic Change**. 2023.  
+Dominik Schlechtweg  
+University of Stuttgart, Stuttgart, Germany  
+ [[pdf]](http://dx.doi.org/10.18419/opus-12833)  [[slides]](publications/220324-thesis-slides.pdf)     [[bib]](publications/bib/Schlechtweg2023measurement.bib) 
 - **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**. 2022.  
 Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg  
  Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change  
- [[pdf]](https://aclanthology.org/2022.lchange-1.16/)  [[slides]](publications/220527-slides-lscdiscovery.pdf)     [[bib]](publications/bib/Zamora2022lscd.bib) 
+ [[pdf]](https://aclanthology.org/2022.lchange-1.16/)  [[slides]](publications/220527-slides-lscdiscovery.pdf)   [[video]](https://doi.org/10.48448/8q4y-rt78)   [[bib]](publications/bib/Zamora2022lscd.bib) 
 - **DiaWUG: A Dataset for Diatopic Lexical Semantic Variation in Spanish**. 2022.  
 Gioia Baldissin, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the 13th Language Resources and Evaluation Conference  
@@ -178,80 +188,43 @@ Dominik Schlechtweg
 <details>
 <summary>Supervision</summary>
 
-- Reem Alatrash  
-**Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).  
-  [[slides]](publications/200115-kiezdeutsch-slides.pdf)   
-- Tejaswi Choppa  
-**Organization of human annotation processes** (Student researcher).  
-- Gioia Baldissin  
-**Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).  
-  [[slides]](publications/220607-diawug-slides.pdf)   
-- Pedro G. Bascoy  
-**DURel Annotation Tool** (Student researcher).  
-    [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
-- Christian Bartsch  
-**Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).  
-- Thomas Bott  
-**Unsupervised Models of Hypernymy for German Subordinate Noun Phrases** (Bachelor thesis).  
-  [[slides]](publications/211214-demasking-slides.pdf)   
-- Andres Cabero  
-**Computational annotators of semantic proximity** (Student researcher).  
-- Enrique Castaneda  
-**Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).  
-- Nishan Chatterjee  
-**DURel Annotation Tool** (Student researcher).  
-    [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
-- Vaibhav Jain  
-**Historical Word Sense Induction** (Internship).  
-- Jens Kaiser  
-**Dimensionality and Noise in Models of Semantic Change Detection** (Bachelor thesis).  
- [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11202)    
-- Serge Kotchourko  
-**Optimizing Human Annotation of Word Usage Graphs in a Realistic Simulation Environment** (Bachelor thesis).  
-  [[slides]](publications/211206-simul-slides.pdf)   
-- Sinan Kurtyigit  
-**Lexical Semantic Change Discovery** (Bachelor thesis).  
- [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11558)  [[slides]](publications/211201-discovery-slides.pdf)   
-- Severin Laicher  
-**Historical Word Sense Clustering with Deep Contextualised Word Embeddings** (Bachelor thesis).  
-  [[slides]](publications/200924-historical-slides.pdf)   
-- Frank David Zamora Reina  
-**Lexical Semantic Change Detection in Spanish** (PhD thesis).  
-- Benjamin Tunc  
-**Optimierung von Clustering von Wortverwendungsgraphen** (Bachelor thesis).  
- [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11923)  [[slides]](publications/211201-optimierung-wugs.pdf)   
-- Lukas Theuer Linke  
-**Visualization of Word Usage Graphs** (Bachelor thesis).  
-- Nash Whaley  
-**Standardization of semantic annotation processes** (Student researcher).  
-- Tuo Zhang  
-**Automating computational annotation of semantic proximity** (Student researcher).  
+- Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
+- Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
+- Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](publications/220607-diawug-slides.pdf)   
+- Reem Alatrash. **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).    [[slides]](publications/200115-kiezdeutsch-slides.pdf)   
+- Lukas Theuer Linke. **Testing the effect of using crowdsourced semantic proximity judgments in the process of human lexicographical word sense clustering** (Bachelor thesis).    [[slides]](publications/230321-slides-proximity.pdf)   
+- Benjamin Tunc. **Optimierung von Clustering von Wortverwendungsgraphen** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11923)  [[slides]](publications/211201-optimierung-wugs.pdf)   
+- Thomas Bott. **Unsupervised Models of Hypernymy for German Subordinate Noun Phrases** (Bachelor thesis).    [[slides]](publications/211214-demasking-slides.pdf)   
+- Jens Kaiser. **Dimensionality and Noise in Models of Semantic Change Detection** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11202)    
+- Serge Kotchourko. **Optimizing Human Annotation of Word Usage Graphs in a Realistic Simulation Environment** (Bachelor thesis).   [[pdf]](http://dx.doi.org/10.18419/opus-11848)  [[slides]](publications/211206-simul-slides.pdf)   
+- Sinan Kurtyigit. **Lexical Semantic Change Discovery** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11558)  [[slides]](publications/211201-discovery-slides.pdf)   
+- Severin Laicher. **Historical Word Sense Clustering with Deep Contextualised Word Embeddings** (Bachelor thesis).    [[slides]](publications/200924-historical-slides.pdf)   
+- Enrique Castaneda. **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).      
+- Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
+- Vaibhav Jain (Internship)
+- Kuan-Yu Lin (Student researcher)
+- Tejaswi Choppa (Student researcher)
+- Nash Whaley (Student researcher)
+- Tuo Zhang (Student researcher)
+- Andres Cabero (Student researcher)
+- Pedro G. Bascoy (Student researcher)
+- Nishan Chatterjee (Student researcher)
 
 </details>
 <details>
-<summary>Open thesis topics (please approach [me](https://www.ims.uni-stuttgart.de/institut/team/Schlechtweg/) if interested)</summary>
+<summary>Teaching</summary>
 
-- **Detection of ambiguous word usages**  
-Many word usages are ambiguous. Often such usages are are regarded as noise and removed from datasets. However, in lexicographic analysis such usages represent rather interesting cases, as they may be instances of a new sense. The student shall review relevant literature, define an ambiguity detection task and use recent word sense annotation [datasets](https://www.ims.uni-stuttgart.de/data/wugs) and evaluate models on these tasks. The best models shall be implemented as annotators for an online system.<br> Primary references: [P1](https://www.jair.org/index.php/jair/article/view/12752), [P2](https://thesai.org/Publications/ViewPaper?Volume=9&Issue=11&Code=IJACSA&SerialNo=49), [P3](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)<br> Secondary references: [S1](https://journals.sagepub.com/doi/abs/10.1177/15257401040250020401?journalCode=cdqc), [S2](https://link.springer.com/article/10.1007/s10515-019-00261-7), [S3](https://www.researchgate.net/publication/344459371_Detecting_Indonesian_ambiguous_sentences_using_Boyer-Moore_algorithm), [S4](https://nlp4re.github.io/2020/reqeval.html)
-- **Detection of semantic variation and sense number in word usage samples**  
-Detecting the semantic variation in word usage samples is not a usual NLP task. However, semantic variation is a useful input to lexicographic analysis, where it can be used as a starting point to discover words with new senses. The student shall proceed by reviewing the literature on semantic variation, defining various tasks based on different measures of semantic variation (e.g. number of senses or average semantic proximity), and adapting and evaluate Word-in-Context models on these tasks [P3]. The best models shall be implemented as annotators for an online system.<br> Primary references: [P1](https://aclanthology.org/N18-2027/), [P2](https://aclanthology.org/2020.semeval-1.4/), [P3](https://www.dialog-21.ru/media/5491/arefyevnplusetal133.pdf)<br> Secondary references: [S1](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12943)
-- **Detection of non-recorded word senses**  
-Dictionaries cover the senses of words at a particular point of time. When a word gains a new sense in a speaker community, its dictionary entry may become outdated. Lexicographers regularly check dictionaries for such outdated entries. The aim of the thesis will be to discover outdated dictionary entries in a modern German or Swedish dictionary by comparing target word usages from modern reference corpora to dictionary entries for the target word. The basic task to solve will be to decide whether the sense of a given word usage is covered by any of the dictionary entries or not. The main difficulty will be that a dictionary entry provides only limited information, which is not sufficient to train a standard Word Sense Disambiguation (WSD) system (sometimes only one example sentence besides the sense definition). Possible solutions shall be explored and tested, including zero-shot WSD systems [P1], unsupervised Word Sense Induction systems [P4] and unsupervised Lexical Semantic Change Detection systems [P5].<br> Primary references: [P1](https://aclanthology.org/P19-1568/), [P2](https://aclanthology.org/N06-1017/), [P3](https://aclanthology.org/2021.naacl-main.142/), [P4](https://aclanthology.org/D18-1523/), [P5](https://aclanthology.org/2021.acl-long.543/)<br> Secondary references: [S1](https://aclanthology.org/C04-1177/)
-- **Detection of sense-representative uses in word usage samples**  
-Word senses can be seen as sets of word uses with similar meanings. For the purpose of human annotation of these word senses or their description in dictionaries it can be helpful to pick representative uses from each word sense cluster, and even more helpful to do this automatically. Such a representative use should fulfill requirements such as clarity, non-ambiguity and agreement between annotators. I am not aware of any systematic approaches to automatically detect sense-representative word uses. The process of the thesis shall be to review literature, define the concept of sense-representativeness, create a small data set, define a task on the data set, define models for the task based on WSI and to evaluate these models on the task. The starting point can be the existing [RefWUG](https://www.ims.uni-stuttgart.de/data/wugs) data set using sense-representative uses, and data sets for graded word sense annotation, such as [DWUG LA](https://zenodo.org/record/5255228) and [WSsim](http://www.dianamccarthy.co.uk/downloads/WordMeaningAnno2012/).
-- **Detection of annotation bots for semantic annotation systems**  
-Online annotation services have the problem that automatic annotation bots imitate humans to create a large number of "fake" annotations generating large revenues for the attacker. The aim of the thesis will be to detect such annotation bots in the [DURel annotation tool](https://www.ims.uni-stuttgart.de/data/durel-tool) by analysing output of human and computational annotators. The outcome shall be an automatic detection mechanism in the DURel tool.
-- **Implementation of computational annotators for lexicographic tasks**  
-A number of lexical semantic NLP tasks are relevant for lexicography, amongst them the [Word-in-Context](https://aclanthology.org/N19-1128/) task asking to predict whether two uses of a word have the same meaning and the [Lexical Semantic Change Detection](https://aclanthology.org/2020.semeval-1.1/) task asking to predict whether two time-specific samples of uses have the same sense distribution. The aim of the thesis is to implement and evaluate simple and robust computational models for a range of lexicography-related semantic tasks (see open topics below), to integrate these into an online interface for lexicographic analysis and to evaluate the usefulness of the models for everyday lexicography.
-- **Open topics on computational lexical semantics and lexicography**  
-Any topic of your choice with regard the below-mentioned lexical semantic tasks:<br> <br> *Use-level*<br> - Word Sense Induction (WSI), based on WiC annotation<br> - Word Sense Disambiguation (WSD)<br> - Lexical Replacement Annotation<br> - Abstractness Level Annotation<br> - Sentiment Level Annotation<br> - Ambiguity Annotation<br> <br> *Use-pair-level*<br> - Semantic Proximity Annotation (aka Word-in-Context, WiC)<br> - Semantic Relation Annotation (SRA)<br> <br> *Lemma-level*:<br> - Lexical Semantic Change Detection (LSCD), based on WSI or WSD<br> - Number of Senses Detection, based on WSI or WSD<br> - Change Type Detection, based on WSI or WSD + SRA<br> <br> *Sense-level*:<br> - Detection of Sense-Representative Uses, based on WSI or WSD<br> - Generation of Sense Descriptions, based on WSI or WSD<br> <br>
-- **Prediction explanation for Lexical Semantic Change Detection**  
-The [LSCDBenchmark](https://github.com/Garrafao/LSCDBenchmark) implements various automatic models of Lexical Semantic Change Detection to predict binary or graded change labels for target words from their uses from different time periods. However, historical linguists are not only interested in the question *whether* a word changed, but also *how* it changed [[1]](https://arxiv.org/abs/2101.07668v1). The aim of the thesis is to derive descriptions of the senses which were lost/gained or changed in frequency from model predictions, to detect sense/change representative uses and information on the semantic relation of old and new senses.
-- **Annotation disagreement detection in Word Usage Graphs**  
-Traditionally, annotator disagreements have been regarded as noise and were removed from data sets, but [recent approaches](https://pure.itu.dk/portal/en/publications/learning-from-disagreement-a-survey) try to treat disagreements as signal, using them for model training. Word sense annotation is an annotation task yielding comparably low inter-annotator agreement. The aim of the thesis is to analyze disagreements in recent word sense annotation [datasets](https://www.ims.uni-stuttgart.de/data/wugs) representing uses of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity. These can be clustered to infer word senses on the graph. The thesis shall examine how annotator disagreements can be detected an how they can be exploited to [infer word senses on the annotated graphs](https://aclanthology.org/2021.emnlp-main.567/).
-- **Adjustment of sense granularity for clustering on Word Usage Graphs**  
-[Word Usage Graphs](https://www.ims.uni-stuttgart.de/data/wugs) represent uses of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity. These can be clustered to infer word senses on the graph. Adjusting parameters on existing clustering approaches should allow to infer word senses of varying granularity. The process of the thesis shall be to review literature on sense granularity and clustering, create a small data set of word sense definitions with different granularities, and to evaluate clustering solutions obtained on the graphs against the data set.
-- **Estimation of Jensen Shannon Divergence for skewed probability distributions**  
-The Jensen Shannon Divergence (JSD) between word sense distributions is an important measure of semantic change [[1]](https://aclanthology.org/2020.semeval-1.1/). Interestingly, it can be approximated from pairwise usage distances avoiding the need to cluster usages [[2]](http://www.dialog-21.ru/media/5492/arefyevnvplusbykovda134.pdf). The aim of the thesis is to formulate various approximations of the JSD and to estimate their bias empirically.
+- **Formale Methoden**  
+Seminar, SS16, Institute for Linguistics/German Studies, University of Stuttgart
+- **Intensionale Logik**  
+Seminar, WS16/17, Institute for Linguistics/German Studies, University of Stuttgart
+- **Formale Methoden**  
+Seminar, SS17, Institute for Linguistics/German Studies, University of Stuttgart
+- **Intensionale Logik**  
+Seminar, WS17/18, Institute for Linguistics/German Studies, University of Stuttgart
+- **Lexical Semantic Change Detection**  
+Seminar, SS19, Institute for Natural Language Processing, University of Stuttgart
+- **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
+Lecture, SS23, Institute for Natural Language Processing, University of Stuttgart
 
 </details>
