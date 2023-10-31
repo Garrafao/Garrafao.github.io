@@ -210,8 +210,8 @@ Dominik Schlechtweg
 - Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
 - Pauline Sander (Software developer)
 - Vaibhav Jain (Internship)
-- Sachin Yadav (Student project)
-- Danyal Aslam (Student project)
+- Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
+- Danyal Aslam. **Detection of bots with "NLP CAPTCHA" tasks** (Student project).      
 - Kuan-Yu Lin (Student researcher)
 - Tejaswi Choppa (Student researcher)
 - Nash Whaley (Student researcher)
