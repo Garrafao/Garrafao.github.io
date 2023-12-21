@@ -28,6 +28,10 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **tba**.  
+Invited Talk at Indiana University, Bloomington, January 8th-21st, 2024.  
+- **Open Problems and Applications in Lexical Semantic Change Detection**.  
+Invited Talk at Seminar course „Diachronic Language Models“ at the University of Heidelberg, Germany, December 19, 2023.  
 - **The LSCD Benchmark -- a test bed for diachronic meaning tasks**.  
 Talk at Workshop on Computational models of diachronic language change, 26th International Conference on Historical Linguistics at the University of Heidelberg, Germany, September 7th, 2023.  
  [[slides]](publications/230905-benchmark-slides.pdf)   [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
@@ -71,18 +75,22 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
+- **The DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**. 2023.  
+Dominik Schlechtweg, Shafqat Mumtaz Virk, Pauline Sander, Emma Sköldberg, Lukas Theuer Linke, Tuo Zhang, Nina Tahmasebi, Jonas Kuhn, Sabine Schulte im Walde  
+arXiv  
+ [[pdf]](https://arxiv.org/abs/2311.12664)      [[bib]](publications/bib/schlechtweg2023durel.bib) 
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
-      [[bib]](publications/bib/Chen2023chiwug.bib) 
-- **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**. 2022.  
-Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg  
- Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change  
- [[pdf]](https://aclanthology.org/2022.lchange-1.16/)  [[slides]](https://garrafao.github.io/publications/220527-slides-lscdiscovery.pdf)   [[video]](https://doi.org/10.48448/8q4y-rt78)   [[bib]](publications/bib/Zamora2022lscd.bib) 
+ [[pdf]](https://aclanthology.org/2023.lchange-1.10/)      [[bib]](publications/bib/Chen2023chiwug.bib) 
 - **Human and Computational Measurement of Lexical Semantic Change**. 2023.  
 Dominik Schlechtweg  
 University of Stuttgart, Stuttgart, Germany  
  [[pdf]](http://dx.doi.org/10.18419/opus-12833)  [[slides]](https://garrafao.github.io/publications/220324-thesis-slides.pdf)     [[bib]](publications/bib/Schlechtweg2023measurement.bib) 
+- **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**. 2022.  
+Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg  
+ Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change  
+ [[pdf]](https://aclanthology.org/2022.lchange-1.16/)  [[slides]](https://garrafao.github.io/publications/220527-slides-lscdiscovery.pdf)   [[video]](https://doi.org/10.48448/8q4y-rt78)   [[bib]](publications/bib/Zamora2022lscd.bib) 
 - **DiaWUG: A Dataset for Diatopic Lexical Semantic Variation in Spanish**. 2022.  
 Gioia Baldissin, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the 13th Language Resources and Evaluation Conference  
@@ -208,10 +216,10 @@ Dominik Schlechtweg
 - Severin Laicher. **Historical Word Sense Clustering with Deep Contextualised Word Embeddings** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/200924-historical-slides.pdf)   
 - Enrique Castaneda. **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).      
 - Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
-- Pauline Sander (Software developer)
-- Vaibhav Jain (Internship)
 - Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
 - Danyal Aslam. **Detection of bots with "NLP CAPTCHA" tasks** (Student project).      
+- Pauline Sander (Software developer)
+- Vaibhav Jain (Internship)
 - Kuan-Yu Lin (Student researcher)
 - Tejaswi Choppa (Student researcher)
 - Nash Whaley (Student researcher)
