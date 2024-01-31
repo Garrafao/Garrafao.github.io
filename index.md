@@ -83,7 +83,7 @@ arXiv
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
- [[pdf]](https://aclanthology.org/2023.lchange-1.10/)  [[slides]](https://garrafao.github.io/publications/240126-chiwug-slides)     [[bib]](publications/bib/Chen2023chiwug.bib) 
+ [[pdf]](https://aclanthology.org/2023.lchange-1.10/)  [[slides]](https://garrafao.github.io/publications/240126-chiwug-slides.pdf)     [[bib]](publications/bib/Chen2023chiwug.bib) 
 - **Human and Computational Measurement of Lexical Semantic Change**. 2023.  
 Dominik Schlechtweg  
 University of Stuttgart, Stuttgart, Germany  
