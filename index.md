@@ -28,48 +28,49 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
-- **tba**.  
-Invited Talk at Indiana University, Bloomington, January 8th-21st, 2024.  
+- **Lexical Semantic Change Detection**.  
+Invited Talk at Indiana University, Bloomington, January 18, 2024.  
+ [[slides]](publications/240110-LSCD-slides.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/240118-lscd-indiana.mp4)  
 - **Open Problems and Applications in Lexical Semantic Change Detection**.  
 Invited Talk at Seminar course „Diachronic Language Models“ at the University of Heidelberg, Germany, December 19, 2023.  
 - **The LSCD Benchmark -- a test bed for diachronic meaning tasks**.  
 Talk at Workshop on Computational models of diachronic language change, 26th International Conference on Historical Linguistics at the University of Heidelberg, Germany, September 7th, 2023.  
- [[slides]](publications/230905-benchmark-slides.pdf)   [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
+ [[slides]](publications/230905-benchmark-slides.pdf)    [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
 - **The operationalization of word senses**.  
 Talk at Workshop on "Recent advances in ChangeIsKey!" in Stuttgart, Germany, August 24th, 2023.  
- [[slides]](publications/230824-operationalization-slides.pdf)   [[link]](https://www.changeiskey.org/event/2023-ims-stuttgart/)
+ [[slides]](publications/230824-operationalization-slides.pdf)    [[link]](https://www.changeiskey.org/event/2023-ims-stuttgart/)
 - **DURel Annotation Tool - Prospects on a Workbench for Lexicographers**.  
 Talk at Kick-Off Event of the RJ Research Program "Change is Key!", Gothenburg, September 8th, 2022.  
- [[slides]](publications/220908-slides-durel-tool.pdf)   [[link]](https://www.changeiskey.org/talk/kick-off-conference-day/)
+ [[slides]](publications/220908-slides-durel-tool.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  [[link]](https://www.changeiskey.org/talk/kick-off-conference-day/)
 - **Human and Computational Measurement of Lexical Semantic Change**.  
 Keynote Talk at 3rd Workshop on Computational Detection of Language Change 2022 @ ACL, Dublin, May 26th, 2022.  
- [[slides]](publications/220324-thesis-slides.pdf)   [[link]](https://languagechange.org/events/2022-acl-lchange/)
+ [[slides]](publications/220324-thesis-slides.pdf)    [[link]](https://languagechange.org/events/2022-acl-lchange/)
 - **Human and Computational Measurement of Lexical Semantic Change**.  
 PhD Defense Talk at IMS, University of Stuttgart, March 24th, 2022.  
- [[slides]](publications/220324-thesis-slides.pdf)   
+ [[slides]](publications/220324-thesis-slides.pdf)    
 - **DURel Annotation Tool**.  
 Talk at StuTS 69 + TaCoS 2021 (Online), May 9th, 2021.  
- [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://talks.stuts.de/en/stuts69/public/events/512)
+ [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://talks.stuts.de/en/stuts69/public/events/512)
 - **State-of-the-art models in lexical semantic change detection**.  
 Invited Talk at SFB-TRR 161 (University of Konstanz), January 18th, 2021.  
- [[slides]](publications/210118-sota-lscd-slides.pdf)   [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
+ [[slides]](publications/210118-sota-lscd-slides.pdf)    [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
 - **Sparse Usage Graphs as Model for Word Meaning in Context**.  
 Keynote Talk at 2nd Workshop on Computational Detection of Language Change 2020, University of Gothenburg, November 25th, 2020.  
- [[slides]](publications/201125-wugs-slides.pdf)   [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
+ [[slides]](publications/201125-wugs-slides.pdf)    [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
 - **Efficient Manual Word Sense Clustering on Historical Corpora**.  
 Invited Talk at The Alan Turing Institute (London), November 11th, 2019.  
 - **Second-order Co-occurrence Sensitivity of Skip-Gram with Negative Sampling**.  
 Invited Talk at CIS, LMU Munich, July 24th, 2019.  
- [[slides]](publications/190723-slides-second-order.pdf)   [[link]](https://www.cis.uni-muenchen.de/~fraser/topics_nlp_2019_SS/)
+ [[slides]](publications/190723-slides-second-order.pdf)    [[link]](https://www.cis.uni-muenchen.de/~fraser/topics_nlp_2019_SS/)
 - **A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains**.  
 Invited Talk at University of Helsinki, February 10th, 2019.  
- [[slides]](publications/190626-slides-woc.pdf)   [[link]](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/workshop-on-lexical-semantic-change)
+ [[slides]](publications/190626-slides-woc.pdf)    [[link]](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/workshop-on-lexical-semantic-change)
 - **Comparing Annotation Frameworks for Lexical Semantic Change**.  
 Talk at 1st Workshop on Computational Detection of Language Change 2018, University of Gothenburg, November 7th, 2018.  
- [[slides]](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/181107-compare-annot.pdf)   
+ [[slides]](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/181107-compare-annot.pdf)    
 - **Problems of DURel annotation measures for semantic change**.  
 Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 2018.  
- [[slides]](publications/180201-problems-slides.pdf)   
+ [[slides]](publications/180201-problems-slides.pdf)    
 
 </details>
 <details>
@@ -78,11 +79,11 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 - **The DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**. 2023.  
 Dominik Schlechtweg, Shafqat Mumtaz Virk, Pauline Sander, Emma Sköldberg, Lukas Theuer Linke, Tuo Zhang, Nina Tahmasebi, Jonas Kuhn, Sabine Schulte im Walde  
 arXiv  
- [[pdf]](https://arxiv.org/abs/2311.12664)      [[bib]](publications/bib/schlechtweg2023durel.bib) 
+ [[pdf]](https://arxiv.org/abs/2311.12664)    [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)   [[bib]](publications/bib/schlechtweg2023durel.bib) 
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
- [[pdf]](https://aclanthology.org/2023.lchange-1.10/)      [[bib]](publications/bib/Chen2023chiwug.bib) 
+ [[pdf]](https://aclanthology.org/2023.lchange-1.10/)  [[slides]](https://garrafao.github.io/publications/240126-chiwug-slides)     [[bib]](publications/bib/Chen2023chiwug.bib) 
 - **Human and Computational Measurement of Lexical Semantic Change**. 2023.  
 Dominik Schlechtweg  
 University of Stuttgart, Stuttgart, Germany  
