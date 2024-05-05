@@ -41,7 +41,7 @@ Talk at Workshop on "Recent advances in ChangeIsKey!" in Stuttgart, Germany, Aug
  [[slides]](publications/230824-operationalization-slides.pdf)    [[link]](https://www.changeiskey.org/event/2023-ims-stuttgart/)
 - **DURel Annotation Tool - Prospects on a Workbench for Lexicographers**.  
 Talk at Kick-Off Event of the RJ Research Program "Change is Key!", Gothenburg, September 8th, 2022.  
- [[slides]](publications/220908-slides-durel-tool.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  [[link]](https://www.changeiskey.org/talk/kick-off-conference-day/)
+ [[slides]](publications/220908-slides-durel-tool.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  
 - **Human and Computational Measurement of Lexical Semantic Change**.  
 Keynote Talk at 3rd Workshop on Computational Detection of Language Change 2022 @ ACL, Dublin, May 26th, 2022.  
  [[slides]](publications/220324-thesis-slides.pdf)    [[link]](https://languagechange.org/events/2022-acl-lchange/)
@@ -76,10 +76,18 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
-- **The DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**. 2023.  
-Dominik Schlechtweg, Shafqat Mumtaz Virk, Pauline Sander, Emma Sköldberg, Lukas Theuer Linke, Tuo Zhang, Nina Tahmasebi, Jonas Kuhn, Sabine Schulte im Walde  
+- **Detection of Non-recorded Word Senses in English and Swedish**. 2024.  
+Jonathan Lautenschlager, Simon Hengchen, Dominik Schlechtweg  
 arXiv  
- [[pdf]](https://arxiv.org/abs/2311.12664)    [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)   [[bib]](publications/bib/schlechtweg2023durel.bib) 
+ [[pdf]](https://arxiv.org/abs/2403.02285)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)     [[bib]](publications/bib/Lautenschlager2024nonrecorded.bib) 
+- **Enriching Word Usage Graphs with Cluster Definitions**. 2024.  
+Mariia Fedorova, Andrey Kutuzov, Nikolay Arefyev, Dominik Schlechtweg  
+ The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation  
+ [[pdf]](https://arxiv.org/abs/2403.18024v1)      [[bib]](publications/bib/Kutuzov2024enriching.bib) 
+- **The DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**. 2024.  
+Dominik Schlechtweg, Shafqat Mumtaz Virk, Pauline Sander, Emma Sk\"oldberg, Lukas Theuer Linke, Tuo Zhang, Nina Tahmasebi, Jonas Kuhn, Sabine Schulte im Walde  
+ Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations, 137-149  
+ [[pdf]](https://aclanthology.org/2024.eacl-demo.15)   [[poster]](https://garrafao.github.io/publications/240218-durel-tool-poster.pdf)  [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)   [[bib]](publications/bib/schlechtweg2024dureltool.bib) 
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
@@ -103,11 +111,11 @@ Dominik Schlechtweg, Enrique Castaneda, Jonas Kuhn, Sabine Schulte im Walde
 - **Lexical Semantic Change Discovery**. 2021.  
 Sinan Kurtyigit, Maike Park, Dominik Schlechtweg, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)  
- [[pdf]](https://aclanthology.org/2021.acl-long.543/)  [[slides]](https://garrafao.github.io/publications/210707-discovery-slides.pdf)   [[video]](https://underline.io/lecture/25774-lexical-semantic-change-discovery)   [[bib]](publications/bib/Kurtyigit2021discovery.bib) 
+ [[pdf]](https://aclanthology.org/2021.acl-long.543/)  [[slides]](https://garrafao.github.io/publications/210707-discovery-slides.pdf)   [[video]](https://doi.org/10.48448/5bm1-m965)   [[bib]](publications/bib/Kurtyigit2021discovery.bib) 
 - **More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods**. 2021.  
 Thomas Bott, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Findings)  
- [[pdf]](https://aclanthology.org/2021.findings-acl.16/)      [[bib]](publications/bib/Bott2021frequency.bib) 
+ [[pdf]](https://aclanthology.org/2021.findings-acl.16/)    [[video]](https://doi.org/10.48448/9xw5-r550)   [[bib]](publications/bib/Bott2021frequency.bib) 
 - **Regression Analysis of Lexical and Morpho-Syntactic Properties of Kiezdeutsch**. 2021.  
 Diego Frassinelli, Gabriella Lapesa, Reem Alatrash, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the Eighth Workshop on NLP for Similar Languages, Varieties and Dialects, 21-27  
@@ -115,7 +123,7 @@ Diego Frassinelli, Gabriella Lapesa, Reem Alatrash, Dominik Schlechtweg, Sabine 
 - **DWUG: A large Resource of Diachronic Word Usage Graphs in Four Languages**. 2021.  
 Dominik Schlechtweg, Nina Tahmasebi, Simon Hengchen, Haim Dubossarsky, Barbara McGillivray  
  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, 7079-7091  
- [[pdf]](https://aclanthology.org/2021.emnlp-main.567)  [[slides]](https://garrafao.github.io/publications/211009-dwug-slides.pdf)  [[poster]](https://garrafao.github.io/publications/211013-dwug-poster.pdf)  [[video]](https://underline.io/lecture/37260-dwug-a-large-resource-of-diachronic-word-usage-graphs-in-four-languages)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html)  [[bib]](publications/bib/Schlechtweg2021dwug.bib) 
+ [[pdf]](https://aclanthology.org/2021.emnlp-main.567)  [[slides]](https://garrafao.github.io/publications/211009-dwug-slides.pdf)  [[poster]](https://garrafao.github.io/publications/211013-dwug-poster.pdf)  [[video]](https://doi.org/10.48448/dj10-1d62)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html)  [[bib]](publications/bib/Schlechtweg2021dwug.bib) 
 - **Explaining and Improving BERT Performance on Lexical Semantic Change Detection**. 2021.  
 Severin Laicher, Sinan Kurtyigit, Dominik Schlechtweg, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop, 192-202  
@@ -139,11 +147,11 @@ Jens Kaiser, Dominik Schlechtweg, Sabine Schulte im Walde
 - **SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection**. 2020.  
 Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky, Nina Tahmasebi  
  Proceedings of the 14th International Workshop on Semantic Evaluation  
- [[pdf]](https://www.aclweb.org/anthology/2020.semeval-1.1/)  [[slides]](https://garrafao.github.io/publications/201027-semeval-slides.pdf)   [[video]](https://languagechange.org/events/2020-semeval-2020-task1/semeval_task1.mp4)   [[bib]](publications/bib/schlechtweg-etal-2020-semeval.bib) 
+ [[pdf]](https://www.aclweb.org/anthology/2020.semeval-1.1/)  [[slides]](https://garrafao.github.io/publications/201027-semeval-slides.pdf)   [[video]](https://doi.org/10.48448/gd9y-h841)   [[bib]](publications/bib/schlechtweg-etal-2020-semeval.bib) 
 - **IMS at SemEval-2020 Task 1: How low can you go? Dimensionality in Lexical Semantic Change Detection**. 2020.  
 Jens Kaiser, Dominik Schlechtweg, Sean Papay, Sabine Schulte im Walde  
  Proceedings of the 14th International Workshop on Semantic Evaluation  
- [[pdf]](https://aclanthology.org/2020.semeval-1.8/)      [[bib]](publications/bib/kaiser-etal-2020-IMS.bib) 
+ [[pdf]](https://aclanthology.org/2020.semeval-1.8/)   [[poster]](https://underline.io/lecture/5901-how-low-can-you-goquestion-dimensionality-in-lexical-semantic-change-detection)    [[bib]](publications/bib/kaiser-etal-2020-IMS.bib) 
 - **CCOHA: Clean Corpus of Historical American English**. 2020.  
 Reem Alatrash, Dominik Schlechtweg, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of the 12th Language Resources and Evaluation Conference, 6958-6966  
@@ -202,12 +210,14 @@ Dominik Schlechtweg
 <summary>Supervision</summary>
 
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
+- Silvia Cunico. **tba** (Master thesis).      
 - Nash Whaley. **Measuring Semantic Relations** (Master thesis).      
-- Tejaswi Choppa. **Detection of ambiguous word usages** (Master thesis).      
+- Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).      
 - Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
 - Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)   
 - Reem Alatrash. **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).    [[slides]](https://garrafao.github.io/publications/200115-kiezdeutsch-slides.pdf)   
-- Jonathan Lautenschlager. **Detection of non-recorded word senses** (Bachelor thesis).      
+- Marcel Wolkober. **CAPTCHA mechanisms using semantic NLP tasks** (Bachelor thesis).      
+- Jonathan Lautenschlager. **Detection of non-recorded word senses** (Bachelor thesis).   [[pdf]](http://dx.doi.org/10.18419/opus-13928)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)   
 - Lukas Theuer Linke. **Testing the effect of using crowdsourced semantic proximity judgments in the process of human lexicographical word sense clustering** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/230321-slides-proximity.pdf)   
 - Benjamin Tunc. **Optimierung von Clustering von Wortverwendungsgraphen** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11923)  [[slides]](https://garrafao.github.io/publications/211201-optimierung-wugs.pdf)   
 - Thomas Bott. **Unsupervised Models of Hypernymy for German Subordinate Noun Phrases** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/211214-demasking-slides.pdf)   
@@ -218,8 +228,8 @@ Dominik Schlechtweg
 - Enrique Castaneda. **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).      
 - Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
 - Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
-- Danyal Aslam. **Detection of bots with "NLP CAPTCHA" tasks** (Student project).      
 - Pauline Sander (Software developer)
+- Alex Astolfi (Internship)
 - Vaibhav Jain (Internship)
 - Kuan-Yu Lin (Student researcher)
 - Tejaswi Choppa (Student researcher)
@@ -233,6 +243,8 @@ Dominik Schlechtweg
 <details>
 <summary>Teaching</summary>
 
+- **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
+Lecture, SS24, Institute for Natural Language Processing, University of Stuttgart
 - **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
 Lecture, SS23, Institute for Natural Language Processing, University of Stuttgart
 - **Lexical Semantic Change Detection**  
