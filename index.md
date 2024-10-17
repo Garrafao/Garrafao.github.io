@@ -18,7 +18,7 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 - **PhiTag**: An open-source text annotation platform.  
     [[link]](https://phitag.ims.uni-stuttgart.de/)
 - **DURel Tool**: An annotation tool for semantic proximity between use pairs.  
-  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
+  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/240218-durel-tool-poster.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
 - **Word Usage Graphs** represent usages of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity.  
     [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/wugs)
 - **Logic in Linguistics**: I am developing ILIAS-based interactive learning materials for logic in linguistics including learning modules, pools of questions and corresponding paper handouts. Topics include *Arguments and argument schemata*, *Sets, relations and functions*, *Propositional logic*, *Predicate logic* and *Theory of types with lambda operator*. Feel free to approach me if you want to use them outside of ILIAS-Stuttgart. All materials are in German.  
@@ -28,66 +28,105 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
+Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
+- **Automatic Dictionary Induction**.  
+Invited Talk at Oxford English Dictionary, Oxford, UK, September 24, 2024.  
+- **PhiTag - An open-source text annotation tool**.  
+Invited Talk at Toloka AI, May 13, 2024.  
+ [[slides]](https://garrafao.github.io/publications/240513-phitag-slides)    
 - **Lexical Semantic Change Detection**.  
 Invited Talk at Indiana University, Bloomington, January 18, 2024.  
- [[slides]](publications/240110-LSCD-slides.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/240118-lscd-indiana.mp4)  
+ [[slides]](https://garrafao.github.io/publications/240110-LSCD-slides.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/240118-lscd-indiana.mp4)  
 - **Open Problems and Applications in Lexical Semantic Change Detection**.  
 Invited Talk at Seminar course „Diachronic Language Models“ at the University of Heidelberg, Germany, December 19, 2023.  
 - **The LSCD Benchmark -- a test bed for diachronic meaning tasks**.  
 Talk at Workshop on Computational models of diachronic language change, 26th International Conference on Historical Linguistics at the University of Heidelberg, Germany, September 7th, 2023.  
- [[slides]](publications/230905-benchmark-slides.pdf)    [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
+ [[slides]](https://garrafao.github.io/publications/230905-benchmark-slides.pdf)    [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
 - **The operationalization of word senses**.  
 Talk at Workshop on "Recent advances in ChangeIsKey!" in Stuttgart, Germany, August 24th, 2023.  
- [[slides]](publications/230824-operationalization-slides.pdf)    [[link]](https://www.changeiskey.org/event/2023-ims-stuttgart/)
+ [[slides]](https://garrafao.github.io/publications/230824-operationalization-slides.pdf)    [[link]](https://www.changeiskey.org/event/2023-ims-stuttgart/)
 - **DURel Annotation Tool - Prospects on a Workbench for Lexicographers**.  
 Talk at Kick-Off Event of the RJ Research Program "Change is Key!", Gothenburg, September 8th, 2022.  
- [[slides]](publications/220908-slides-durel-tool.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  
+ [[slides]](https://garrafao.github.io/publications/220908-slides-durel-tool.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  
 - **Human and Computational Measurement of Lexical Semantic Change**.  
 Keynote Talk at 3rd Workshop on Computational Detection of Language Change 2022 @ ACL, Dublin, May 26th, 2022.  
- [[slides]](publications/220324-thesis-slides.pdf)    [[link]](https://languagechange.org/events/2022-acl-lchange/)
+ [[slides]](https://garrafao.github.io/publications/220324-thesis-slides.pdf)    [[link]](https://languagechange.org/events/2022-acl-lchange/)
 - **Human and Computational Measurement of Lexical Semantic Change**.  
 PhD Defense Talk at IMS, University of Stuttgart, March 24th, 2022.  
  [[slides]](publications/220324-thesis-slides.pdf)    
 - **DURel Annotation Tool**.  
 Talk at StuTS 69 + TaCoS 2021 (Online), May 9th, 2021.  
- [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/210516-poster-durel-tool.pdf)  [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://talks.stuts.de/en/stuts69/public/events/512)
+ [[slides]](publications/210503-durel-slides.pdf)  [[poster]](https://garrafao.github.io/publications/210516-poster-durel-tool.pdf)  [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://talks.stuts.de/en/stuts69/public/events/512)
 - **State-of-the-art models in lexical semantic change detection**.  
 Invited Talk at SFB-TRR 161 (University of Konstanz), January 18th, 2021.  
- [[slides]](publications/210118-sota-lscd-slides.pdf)    [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
+ [[slides]](https://garrafao.github.io/publications/210118-sota-lscd-slides.pdf)    [[link]](https://www.sfbtrr161.de/newsandpress/events_sfbtrr161/)
 - **Sparse Usage Graphs as Model for Word Meaning in Context**.  
 Keynote Talk at 2nd Workshop on Computational Detection of Language Change 2020, University of Gothenburg, November 25th, 2020.  
- [[slides]](publications/201125-wugs-slides.pdf)    [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
+ [[slides]](https://garrafao.github.io/publications/201125-wugs-slides.pdf)    [[link]](https://languagechange.org/events/2020-sltc-lcworkshop/)
 - **Efficient Manual Word Sense Clustering on Historical Corpora**.  
 Invited Talk at The Alan Turing Institute (London), November 11th, 2019.  
 - **Second-order Co-occurrence Sensitivity of Skip-Gram with Negative Sampling**.  
 Invited Talk at CIS, LMU Munich, July 24th, 2019.  
- [[slides]](publications/190723-slides-second-order.pdf)    [[link]](https://www.cis.uni-muenchen.de/~fraser/topics_nlp_2019_SS/)
+ [[slides]](https://garrafao.github.io/publications/190723-slides-second-order.pdf)    [[link]](https://www.cis.uni-muenchen.de/~fraser/topics_nlp_2019_SS/)
 - **A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains**.  
 Invited Talk at University of Helsinki, February 10th, 2019.  
- [[slides]](publications/190626-slides-woc.pdf)    [[link]](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/workshop-on-lexical-semantic-change)
+ [[slides]](https://garrafao.github.io/publications/190626-slides-woc.pdf)    [[link]](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/workshop-on-lexical-semantic-change)
 - **Comparing Annotation Frameworks for Lexical Semantic Change**.  
 Talk at 1st Workshop on Computational Detection of Language Change 2018, University of Gothenburg, November 7th, 2018.  
  [[slides]](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/181107-compare-annot.pdf)    
 - **Problems of DURel annotation measures for semantic change**.  
 Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 2018.  
- [[slides]](publications/180201-problems-slides.pdf)    
+ [[slides]](https://garrafao.github.io/publications/180201-problems-slides.pdf)    
 
 </details>
 <details>
 <summary>Publications</summary>
 
-- **Detection of Non-recorded Word Senses in English and Swedish**. 2024.  
-Jonathan Lautenschlager, Simon Hengchen, Dominik Schlechtweg  
-arXiv  
- [[pdf]](https://arxiv.org/abs/2403.02285)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)     [[bib]](publications/bib/Lautenschlager2024nonrecorded.bib) 
+- **More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages**. 2024.  
+Dominik Schlechtweg, Pierluigi Cassotti, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi  
+ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
+      [[bib]](publications/bib/Schlechtweg2024dwugs.bib) 
+- **TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse**. 2024.  
+Francesco Periti, Pierluigi Cassotti, Stefano Montanelli, Nina Tahmasebi, Dominik Schlechtweg  
+ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
+      [[bib]](publications/bib/Periti2024trotr.bib) 
+- **Sense Through Time: Diachronic Word Sense Annotations for Word Sense Induction and Lexical Semantic Change Detection**. 2024.  
+Dominik Schlechtweg, Frank D. Zamora-Reina, Felipe Bravo-Marquez, Nikolay Arefyev  
+ Language Resources and Evaluation  
+ [[pdf]](https://doi.org/10.1007/s10579-024-09771-7)      [[bib]](publications/bib/Schlechtweg2024sense.bib) 
+- **The DURel Annotation Tool: Using fine-tuned LLMs to discover non-recorded senses in multiple languages**. 2024.  
+Pauline Sander, Simon Hengchen, Wei Zhao, Xiaocheng Ma, Emma Sköldberg, Shafqat Mumtaz Virk, Dominik Schlechtweg  
+ Workshop on Large Language Models and Lexicography at 21st EURALEX International Congress Lexicography and Semantics  
+ [[pdf]](https://www.cjvt.si/wp-content/uploads/2024/10/LLM-Lex_2024_Book-of-Abstracts.pdf)  [[slides]](https://garrafao.github.io/publications/241008-tool-slides.pdf)     [[bib]](publications/bib/Sander2024dureltool.bib) 
+- **Revealing semantic variation in Swedish using computational models of semantic proximity: results from lexicographical experiments**. 2024.  
+Emma Sköldberg, Shafqat Mumtaz Virk, Pauline Sander, Simon Hengchen, Dominik Schlechtweg  
+ 21st EURALEX International Congress Lexicography and Semantics  
+ [[pdf]](https://euralex.jezik.hr/wp-content/uploads/2021/09/Euralex-XXI-proceedings_1st.pdf)  [[slides]](https://garrafao.github.io/publications/241010-variation-slides.pdf)     [[bib]](publications/bib/Skoldberg2024revealing.bib) 
 - **Enriching Word Usage Graphs with Cluster Definitions**. 2024.  
-Mariia Fedorova, Andrey Kutuzov, Nikolay Arefyev, Dominik Schlechtweg  
- The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation  
- [[pdf]](https://arxiv.org/abs/2403.18024v1)      [[bib]](publications/bib/Kutuzov2024enriching.bib) 
+Andrey Kutuzov, Mariia Fedorova, Dominik Schlechtweg, Nikolay Arefyev  
+ Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 6189-6198  
+ [[pdf]](https://aclanthology.org/2024.lrec-main.546)  [[slides]](https://garrafao.github.io/publications/240524-enriching-wugs-slides.pdf)     [[bib]](publications/bib/Kutuzov2024enriching.bib) 
 - **The DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**. 2024.  
-Dominik Schlechtweg, Shafqat Mumtaz Virk, Pauline Sander, Emma Sk\"oldberg, Lukas Theuer Linke, Tuo Zhang, Nina Tahmasebi, Jonas Kuhn, Sabine Schulte im Walde  
+Dominik Schlechtweg, Shafqat Mumtaz Virk, Pauline Sander, Emma Sköldberg, Lukas Theuer Linke, Tuo Zhang, Nina Tahmasebi, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations, 137-149  
  [[pdf]](https://aclanthology.org/2024.eacl-demo.15)   [[poster]](https://garrafao.github.io/publications/240218-durel-tool-poster.pdf)  [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)   [[bib]](publications/bib/schlechtweg2024dureltool.bib) 
+- **Presence or Absence: Are Unknown Word Usages in Dictionaries?**. 2024.  
+Xianghe Ma, Dominik Schlechtweg, Wei Zhao  
+ Proceedings of the 5th Workshop on Computational Approaches to Historical Language Change, 42-54  
+ [[pdf]](https://aclanthology.org/2024.lchange-1.5)      [[bib]](publications/bib/Ma2024unknown.bib) 
+- **Towards Automating Text Annotation: A Case Study on Semantic Proximity Annotation using GPT-4**. 2024.  
+Sachin Yadav, Tejaswi Choppa, Dominik Schlechtweg  
+arXiv  
+ [[pdf]](https://arxiv.org/abs/2407.04130)      [[bib]](publications/bib/Yadav2024annotation.bib) 
+- **Detection of Non-recorded Word Senses in English and Swedish**. 2024.  
+Jonathan Lautenschlager, Simon Hengchen,  Emma Sköldberg, Dominik Schlechtweg  
+arXiv  
+ [[pdf]](https://arxiv.org/abs/2403.02285)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)     [[bib]](publications/bib/Lautenschlager2024nonrecorded.bib) 
+- **The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**. 2024.  
+Dominik Schlechtweg, Shafqat Mumtaz Virk, Nikolay Arefyev  
+arXiv  
+      [[bib]](publications/bib/schlechtweg2024lscd.bib) 
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
@@ -210,27 +249,29 @@ Dominik Schlechtweg
 <summary>Supervision</summary>
 
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
-- Silvia Cunico. **tba** (Master thesis).      
+- Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).      
 - Nash Whaley. **Measuring Semantic Relations** (Master thesis).      
 - Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).      
 - Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
 - Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)   
 - Reem Alatrash. **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).    [[slides]](https://garrafao.github.io/publications/200115-kiezdeutsch-slides.pdf)   
-- Marcel Wolkober. **CAPTCHA mechanisms using semantic NLP tasks** (Bachelor thesis).      
+- Marcel Wolkober. **CAPTCHA mechanisms using semantic NLU tasks** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/240719-captcha-nlu-slides.pdf)   
 - Jonathan Lautenschlager. **Detection of non-recorded word senses** (Bachelor thesis).   [[pdf]](http://dx.doi.org/10.18419/opus-13928)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)   
 - Lukas Theuer Linke. **Testing the effect of using crowdsourced semantic proximity judgments in the process of human lexicographical word sense clustering** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/230321-slides-proximity.pdf)   
 - Benjamin Tunc. **Optimierung von Clustering von Wortverwendungsgraphen** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11923)  [[slides]](https://garrafao.github.io/publications/211201-optimierung-wugs.pdf)   
 - Thomas Bott. **Unsupervised Models of Hypernymy for German Subordinate Noun Phrases** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/211214-demasking-slides.pdf)   
-- Jens Kaiser. **Dimensionality and Noise in Models of Semantic Change Detection** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11202)    
-- Serge Kotchourko. **Optimizing Human Annotation of Word Usage Graphs in a Realistic Simulation Environment** (Bachelor thesis).   [[pdf]](http://dx.doi.org/10.18419/opus-11848)  [[slides]](https://garrafao.github.io/publications/211206-simul-slides.pdf)   
 - Sinan Kurtyigit. **Lexical Semantic Change Discovery** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11558)  [[slides]](https://garrafao.github.io/publications/211201-discovery-slides.pdf)   
+- Serge Kotchourko. **Optimizing Human Annotation of Word Usage Graphs in a Realistic Simulation Environment** (Bachelor thesis).   [[pdf]](http://dx.doi.org/10.18419/opus-11848)  [[slides]](https://garrafao.github.io/publications/211206-simul-slides.pdf)   
+- Jens Kaiser. **Dimensionality and Noise in Models of Semantic Change Detection** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11202)    
 - Severin Laicher. **Historical Word Sense Clustering with Deep Contextualised Word Embeddings** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/200924-historical-slides.pdf)   
 - Enrique Castaneda. **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).      
 - Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
 - Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
 - Pauline Sander (Software developer)
+- Jing Chen (Internship)
 - Alex Astolfi (Internship)
 - Vaibhav Jain (Internship)
+- Arshan Dalili (Student researcher)
 - Kuan-Yu Lin (Student researcher)
 - Tejaswi Choppa (Student researcher)
 - Nash Whaley (Student researcher)
@@ -243,12 +284,14 @@ Dominik Schlechtweg
 <details>
 <summary>Teaching</summary>
 
+- **Introduction Bayesian statistics**  
+Seminar + Project, WS24/25, Institute for Natural Language Processing, University of Stuttgart
 - **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
 Lecture, SS24, Institute for Natural Language Processing, University of Stuttgart
 - **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
 Lecture, SS23, Institute for Natural Language Processing, University of Stuttgart
 - **Lexical Semantic Change Detection**  
-Seminar, SS19, Institute for Natural Language Processing, University of Stuttgart
+Seminar + Project, SS19, Institute for Natural Language Processing, University of Stuttgart
 - **Intensionale Logik**  
 Seminar, WS17/18, Institute for Linguistics/German Studies, University of Stuttgart
 - **Formale Methoden**  
