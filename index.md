@@ -1,12 +1,12 @@
 # Dominik Schlechtweg
 
-I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022, I am an independent [research group leader](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/cik/) at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/). I am also the leader of the [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://www.ims.uni-stuttgart.de/data/durel-tool) projects where we develop open source text annotation platforms.
+I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022, I am an independent [research group leader](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/cik/) at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/). I am also the leader of the [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://durel.ims.uni-stuttgart.de/) projects where we develop open source text annotation platforms.
 
  [Email](https://www.ims.uni-stuttgart.de/institut/team/Schlechtweg-00003/), [Github](https://github.com/Garrafao), [Google Scholar](https://scholar.google.com/citations?hl=en&user=7JjqFPoAAAAJ), [LinkedIn](https://www.linkedin.com/in/dominik-schlechtweg-594935254/)
 <details>
 <summary>Interests</summary>
 
-- optimization of human text data annotation processes (see [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://www.ims.uni-stuttgart.de/data/durel-tool))  
+- optimization of human text data annotation processes (see [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://durel.ims.uni-stuttgart.de/))  
 - automation of lexicographic processes  
 - application of lexical semantic computational models  
 - statistical modeling of word meaning  
@@ -86,11 +86,11 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 - **More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages**. 2024.  
 Dominik Schlechtweg, Pierluigi Cassotti, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi  
  Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
-      [[bib]](publications/bib/Schlechtweg2024dwugs.bib) 
+  [[slides]](https://garrafao.github.io/publications/241029-more-dwugs-slides.pdf)  [[poster]](https://garrafao.github.io/publications/241029-more-dwugs-poster.pdf)    [[bib]](publications/bib/Schlechtweg2024dwugs.bib) 
 - **TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse**. 2024.  
 Francesco Periti, Pierluigi Cassotti, Stefano Montanelli, Nina Tahmasebi, Dominik Schlechtweg  
  Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
-      [[bib]](publications/bib/Periti2024trotr.bib) 
+   [[poster]](https://garrafao.github.io/publications/241021-trotr-poster.pdf)    [[bib]](publications/bib/Periti2024trotr.bib) 
 - **Sense Through Time: Diachronic Word Sense Annotations for Word Sense Induction and Lexical Semantic Change Detection**. 2024.  
 Dominik Schlechtweg, Frank D. Zamora-Reina, Felipe Bravo-Marquez, Nikolay Arefyev  
  Language Resources and Evaluation  
@@ -249,13 +249,15 @@ Dominik Schlechtweg
 <summary>Supervision</summary>
 
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
+- Sachin Yadav. **Optimizing Word-in-Context models for ordinal-scale prediction** (Master thesis).      
 - Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).      
 - Nash Whaley. **Measuring Semantic Relations** (Master thesis).      
 - Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).      
 - Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
 - Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)   
 - Reem Alatrash. **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).    [[slides]](https://garrafao.github.io/publications/200115-kiezdeutsch-slides.pdf)   
-- Marcel Wolkober. **CAPTCHA mechanisms using semantic NLU tasks** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/240719-captcha-nlu-slides.pdf)   
+- Louisa Graef. **Erkennung binärer lexikalisch-semantischer Veränderungen** (Bachelor thesis).      
+- Marcel Wolkober. **CAPTCHA mechanisms using semantic NLU tasks** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/15165)  [[slides]](https://garrafao.github.io/publications/240719-captcha-nlu-slides.pdf)   
 - Jonathan Lautenschlager. **Detection of non-recorded word senses** (Bachelor thesis).   [[pdf]](http://dx.doi.org/10.18419/opus-13928)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)   
 - Lukas Theuer Linke. **Testing the effect of using crowdsourced semantic proximity judgments in the process of human lexicographical word sense clustering** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/230321-slides-proximity.pdf)   
 - Benjamin Tunc. **Optimierung von Clustering von Wortverwendungsgraphen** (Bachelor thesis).   [[pdf]](https://elib.uni-stuttgart.de/handle/11682/11923)  [[slides]](https://garrafao.github.io/publications/211201-optimierung-wugs.pdf)   
