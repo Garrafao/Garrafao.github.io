@@ -30,6 +30,10 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 
 - **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
 Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
+    [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
+- **DURel \& PhiTag: Two public, open-source text annotation tools**.  
+Invited Talk at Course ``Ingénierie Linguistique'' at University of Geneva, November 8, 2024.  
+ [[slides]](https://garrafao.github.io/publications/240513-phitag-slides)    
 - **Automatic Dictionary Induction**.  
 Invited Talk at Oxford English Dictionary, Oxford, UK, September 24, 2024.  
 - **PhiTag - An open-source text annotation tool**.  
@@ -83,6 +87,18 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
+- **The CoMeDi Shared Task: Median Judgment Classification \& Mean Disagreement Ranking with Ordinal Word-in-Context Judgments**. 2025.  
+Dominik Schlechtweg, Tejaswi Choppa, Wei Zhao, Michael Roth  
+ Proceedings of the 1st Workshop on Context and Meaning--Navigating Disagreements in NLP Annotations  
+      [[bib]](publications/bib/schlechtweg2025comedi.bib) 
+- **Predicting Median, Disagreement and Noise Label in Ordinal Word-in-Context Data**. 2025.  
+Tejaswi Choppa, Michael Roth, Dominik Schlechtweg  
+ Proceedings of the 1st Workshop on Context and Meaning--Navigating Disagreements in NLP Annotations  
+      [[bib]](publications/bib/Choppa2025comedi.bib) 
+- **ABDN-NLP at CoMeDi Shared Task: Predicting the Aggregated Human Judgment via Weighted Few-Shot Prompting**. 2025.  
+Ying Xuan Loke, Dominik Schlechtweg, Wei Zhao  
+ Proceedings of the 1st Workshop on Context and Meaning--Navigating Disagreements in NLP Annotations  
+      [[bib]](publications/bib/Loke2025comedi.bib) 
 - **More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages**. 2024.  
 Dominik Schlechtweg, Pierluigi Cassotti, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi  
  Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
