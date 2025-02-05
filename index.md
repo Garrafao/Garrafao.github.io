@@ -18,7 +18,7 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 - **PhiTag**: An open-source text annotation platform.  
     [[link]](https://phitag.ims.uni-stuttgart.de/)
 - **DURel Tool**: An annotation tool for semantic proximity between use pairs.  
-  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/240218-durel-tool-poster.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/durel-tool)
+  [[slides]](publications/210503-durel-slides.pdf)  [[poster]](publications/240218-durel-tool-poster.pdf)  [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://durel.ims.uni-stuttgart.de/)
 - **Word Usage Graphs** represent usages of a word as nodes in a graph which are connected by weighted edges representing (human-annotated) semantic proximity.  
     [[blog]](https://blog.junge-sprachwissenschaft.de/2021/08/01/Schlechtweg-DURel-Annotation-Tool.html) [[link]](https://www.ims.uni-stuttgart.de/data/wugs)
 - **Logic in Linguistics**: I am developing ILIAS-based interactive learning materials for logic in linguistics including learning modules, pools of questions and corresponding paper handouts. Topics include *Arguments and argument schemata*, *Sets, relations and functions*, *Propositional logic*, *Predicate logic* and *Theory of types with lambda operator*. Feel free to approach me if you want to use them outside of ILIAS-Stuttgart. All materials are in German.  
@@ -28,9 +28,19 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **DURel Annotation Tool**.  
+Invited Talk at Historical Studies Department at State University of Milan, Italy, March 28, 2025.  
+- **Probabilistic Models of Word Usage Graphs**.  
+Invited Talk at Department of Translation and Language Sciences at Universitat Pompeu Fabra, Barcelona, Spain, March 20, 2025.  
+- **Tutorial in Computational Linguistics: Lexical Semantic Change Detection**.  
+Invited Talk at Annual Meeting of the German Linguistic Society, Mainz, Germany, March 4, 2025.  
+    [[link]](https://converia.uni-mainz.de/frontend/index.php?page_id=4621)
 - **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
 Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
     [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
+- **Hands-On Tutorial: Labeling with LLM and Human-in-the-Loop**.  
+Tutorial presentation at Tutorial given at COLING, Abu Dhabi, UAE, January 19, 2025.  
+    [[link]](https://arxiv.org/abs/2411.04637)
 - **DURel \& PhiTag: Two public, open-source text annotation tools**.  
 Invited Talk at Course ``Ingénierie Linguistique'' at University of Geneva, November 8, 2024.  
  [[slides]](https://garrafao.github.io/publications/240513-phitag-slides)    
@@ -87,38 +97,38 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
-- **The CoMeDi Shared Task: Median Judgment Classification \& Mean Disagreement Ranking with Ordinal Word-in-Context Judgments**. 2025.  
+- **CoMeDi Shared Task: Median Judgment Classification \& Mean Disagreement Ranking with Ordinal Word-in-Context Judgments**. 2025.  
 Dominik Schlechtweg, Tejaswi Choppa, Wei Zhao, Michael Roth  
- Proceedings of the 1st Workshop on Context and Meaning--Navigating Disagreements in NLP Annotations  
-      [[bib]](publications/bib/schlechtweg2025comedi.bib) 
+ Proceedings of Context and Meaning: Navigating Disagreements in NLP Annotation, 33-47  
+ [[pdf]](https://aclanthology.org/2025.comedi-1.4/)  [[slides]](https://garrafao.github.io/publications/250119-comedi-slides.pdf)     [[bib]](publications/bib/schlechtweg2025comedi.bib) 
 - **Predicting Median, Disagreement and Noise Label in Ordinal Word-in-Context Data**. 2025.  
 Tejaswi Choppa, Michael Roth, Dominik Schlechtweg  
- Proceedings of the 1st Workshop on Context and Meaning--Navigating Disagreements in NLP Annotations  
-      [[bib]](publications/bib/Choppa2025comedi.bib) 
+ Proceedings of Context and Meaning: Navigating Disagreements in NLP Annotation, 65-77  
+ [[pdf]](https://aclanthology.org/2025.comedi-1.6/)  [[slides]](https://garrafao.github.io/publications/250117-disagreement-slides.pdf)     [[bib]](publications/bib/Choppa2025comedi.bib) 
 - **ABDN-NLP at CoMeDi Shared Task: Predicting the Aggregated Human Judgment via Weighted Few-Shot Prompting**. 2025.  
 Ying Xuan Loke, Dominik Schlechtweg, Wei Zhao  
- Proceedings of the 1st Workshop on Context and Meaning--Navigating Disagreements in NLP Annotations  
-      [[bib]](publications/bib/Loke2025comedi.bib) 
+ Proceedings of Context and Meaning: Navigating Disagreements in NLP Annotation, 122-128  
+ [[pdf]](https://aclanthology.org/2025.comedi-1.12/)   [[poster]](https://garrafao.github.io/publications/250117-abdn-comedi-poster.pdf)    [[bib]](publications/bib/Loke2025comedi.bib) 
 - **More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages**. 2024.  
-Dominik Schlechtweg, Pierluigi Cassotti, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi  
- Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
-  [[slides]](https://garrafao.github.io/publications/241029-more-dwugs-slides.pdf)  [[poster]](https://garrafao.github.io/publications/241029-more-dwugs-poster.pdf)    [[bib]](publications/bib/Schlechtweg2024dwugs.bib) 
+Dominik Schlechtweg, Pierluigi Cassotti, Bill Noble, David Alfter, Sabine Schulte Im Walde, Nina Tahmasebi  
+ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, 14379-14393  
+ [[pdf]](https://aclanthology.org/2024.emnlp-main.796)  [[slides]](https://garrafao.github.io/publications/241029-more-dwugs-slides.pdf)  [[poster]](https://garrafao.github.io/publications/241029-more-dwugs-poster.pdf)  [[video]](https://underline.io/events/469/posters/18796/poster/107709-more-dwugs-extending-and-evaluating-word-usage-graph-datasets-in-multiple-languages)   [[bib]](publications/bib/Schlechtweg2024dwugs.bib) 
 - **TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse**. 2024.  
 Francesco Periti, Pierluigi Cassotti, Stefano Montanelli, Nina Tahmasebi, Dominik Schlechtweg  
- Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing  
-   [[poster]](https://garrafao.github.io/publications/241021-trotr-poster.pdf)    [[bib]](publications/bib/Periti2024trotr.bib) 
+ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, 13972-13990  
+ [[pdf]](https://aclanthology.org/2024.emnlp-main.774)  [[slides]](https://garrafao.github.io/publications/241127-trotr-slides.pdf)  [[poster]](https://garrafao.github.io/publications/241021-trotr-poster.pdf)  [[video]](https://underline.io/events/469/posters/18841/poster/107683-trotr-a-framework-for-evaluating-the-re-contextualization-of-text-reuse)   [[bib]](publications/bib/Periti2024trotr.bib) 
 - **Sense Through Time: Diachronic Word Sense Annotations for Word Sense Induction and Lexical Semantic Change Detection**. 2024.  
 Dominik Schlechtweg, Frank D. Zamora-Reina, Felipe Bravo-Marquez, Nikolay Arefyev  
  Language Resources and Evaluation  
  [[pdf]](https://doi.org/10.1007/s10579-024-09771-7)      [[bib]](publications/bib/Schlechtweg2024sense.bib) 
 - **The DURel Annotation Tool: Using fine-tuned LLMs to discover non-recorded senses in multiple languages**. 2024.  
 Pauline Sander, Simon Hengchen, Wei Zhao, Xiaocheng Ma, Emma Sköldberg, Shafqat Mumtaz Virk, Dominik Schlechtweg  
- Workshop on Large Language Models and Lexicography at 21st EURALEX International Congress Lexicography and Semantics  
- [[pdf]](https://www.cjvt.si/wp-content/uploads/2024/10/LLM-Lex_2024_Book-of-Abstracts.pdf)  [[slides]](https://garrafao.github.io/publications/241008-tool-slides.pdf)     [[bib]](publications/bib/Sander2024dureltool.bib) 
-- **Revealing semantic variation in Swedish using computational models of semantic proximity: results from lexicographical experiments**. 2024.  
+ Proceedings of the Workshop on Large Language Models and Lexicography at 21st EURALEX International Congress Lexicography and Semantics  
+ [[pdf]](https://www.cjvt.si/wp-content/uploads/2024/10/LLM-Lex_2024_Book-of-Abstracts.pdf)  [[slides]](https://garrafao.github.io/publications/241008-tool-slides.pdf)   [[video]](https://videolectures.net/videos/euralex2024_virk_durel_tool)   [[bib]](publications/bib/Sander2024dureltool.bib) 
+- **Revealing semantic variation in Swedish using computational models of semantic proximity: Results from lexicographical experiments**. 2024.  
 Emma Sköldberg, Shafqat Mumtaz Virk, Pauline Sander, Simon Hengchen, Dominik Schlechtweg  
- 21st EURALEX International Congress Lexicography and Semantics  
- [[pdf]](https://euralex.jezik.hr/wp-content/uploads/2021/09/Euralex-XXI-proceedings_1st.pdf)  [[slides]](https://garrafao.github.io/publications/241010-variation-slides.pdf)     [[bib]](publications/bib/Skoldberg2024revealing.bib) 
+ Proceedings of the 21st EURALEX International Congress Lexicography and Semantics  
+ [[pdf]](https://euralex.org/publications/revealing-semantic-variation-in-swedish-using-computational-models-of-semantic-proximity-results-from-lexicographical-experiments/)  [[slides]](https://garrafao.github.io/publications/241010-variation-slides.pdf)   [[video]](https://videolectures.net/videos/euralex2024_cavtat_skoldberg_revealing_semantic)   [[bib]](publications/bib/Skoldberg2024revealing.bib) 
 - **Enriching Word Usage Graphs with Cluster Definitions**. 2024.  
 Andrey Kutuzov, Mariia Fedorova, Dominik Schlechtweg, Nikolay Arefyev  
  Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 6189-6198  
@@ -142,7 +152,7 @@ arXiv
 - **The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**. 2024.  
 Dominik Schlechtweg, Shafqat Mumtaz Virk, Nikolay Arefyev  
 arXiv  
-      [[bib]](publications/bib/schlechtweg2024lscd.bib) 
+ [[pdf]](https://arxiv.org/abs/2404.00176)  [[slides]](https://garrafao.github.io/publications/230905-benchmark-slides.pdf)     [[bib]](publications/bib/schlechtweg2024lscd.bib) 
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
@@ -267,8 +277,8 @@ Dominik Schlechtweg
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
 - Sachin Yadav. **Optimizing Word-in-Context models for ordinal-scale prediction** (Master thesis).      
 - Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).      
-- Nash Whaley. **Measuring Semantic Relations** (Master thesis).      
-- Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).      
+- Nash Whaley. **Human and Computational Measurement of Semantic Relations** (Master thesis).      
+- Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).    [[slides]](https://garrafao.github.io/publications/250117-disagreement-slides.pdf)   
 - Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
 - Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)   
 - Reem Alatrash. **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).    [[slides]](https://garrafao.github.io/publications/200115-kiezdeutsch-slides.pdf)   
