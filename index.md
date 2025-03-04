@@ -32,23 +32,23 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 Invited Talk at Historical Studies Department at State University of Milan, Italy, March 28, 2025.  
 - **Probabilistic Models of Word Usage Graphs**.  
 Invited Talk at Department of Translation and Language Sciences at Universitat Pompeu Fabra, Barcelona, Spain, March 20, 2025.  
-- **Tutorial in Computational Linguistics: Lexical Semantic Change Detection**.  
-Invited Talk at Annual Meeting of the German Linguistic Society, Mainz, Germany, March 4, 2025.  
-    [[link]](https://converia.uni-mainz.de/frontend/index.php?page_id=4621)
 - **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
 Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
     [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
+- **Tutorial in Computational Linguistics: Lexical Semantic Change Detection**.  
+Invited Talk at Annual Meeting of the German Linguistic Society, Mainz, Germany, March 4, 2025.  
+ [[slides]](https://garrafao.github.io/publications/250304-tutorial-slides.pdf)    [[link]](https://converia.uni-mainz.de/frontend/index.php?page_id=4621)
 - **Hands-On Tutorial: Labeling with LLM and Human-in-the-Loop**.  
 Tutorial presentation at Tutorial given at COLING, Abu Dhabi, UAE, January 19, 2025.  
     [[link]](https://arxiv.org/abs/2411.04637)
 - **DURel \& PhiTag: Two public, open-source text annotation tools**.  
 Invited Talk at Course ``Ingénierie Linguistique'' at University of Geneva, November 8, 2024.  
- [[slides]](https://garrafao.github.io/publications/240513-phitag-slides)    
+ [[slides]](https://garrafao.github.io/publications/240513-phitag-slides.pdf)    
 - **Automatic Dictionary Induction**.  
 Invited Talk at Oxford English Dictionary, Oxford, UK, September 24, 2024.  
 - **PhiTag - An open-source text annotation tool**.  
 Invited Talk at Toloka AI, May 13, 2024.  
- [[slides]](https://garrafao.github.io/publications/240513-phitag-slides)    
+ [[slides]](https://garrafao.github.io/publications/240513-phitag-slides.pdf)    
 - **Lexical Semantic Change Detection**.  
 Invited Talk at Indiana University, Bloomington, January 18, 2024.  
  [[slides]](https://garrafao.github.io/publications/240110-LSCD-slides.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/240118-lscd-indiana.mp4)  
@@ -312,7 +312,7 @@ Dominik Schlechtweg
 <details>
 <summary>Teaching</summary>
 
-- **Introduction Bayesian statistics**  
+- **Introduction to Bayesian statistics**  
 Seminar + Project, WS24/25, Institute for Natural Language Processing, University of Stuttgart
 - **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
 Lecture, SS24, Institute for Natural Language Processing, University of Stuttgart
