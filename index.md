@@ -34,7 +34,7 @@ Invited Talk at Historical Studies Department at State University of Milan, Ital
 Invited Talk at Department of Translation and Language Sciences at Universitat Pompeu Fabra, Barcelona, Spain, March 20, 2025.  
 - **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
 Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
-    [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
+ [[slides]](https://garrafao.github.io/publications/250311-ids-slides.pdf)    [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
 - **Tutorial in Computational Linguistics: Lexical Semantic Change Detection**.  
 Invited Talk at Annual Meeting of the German Linguistic Society, Mainz, Germany, March 4, 2025.  
  [[slides]](https://garrafao.github.io/publications/250304-tutorial-slides.pdf)    [[link]](https://converia.uni-mainz.de/frontend/index.php?page_id=4621)
