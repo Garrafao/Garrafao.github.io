@@ -30,8 +30,9 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 
 - **DURel Annotation Tool**.  
 Invited Talk at Historical Studies Department at State University of Milan, Italy, March 28, 2025.  
-- **Probabilistic Models of Word Usage Graphs**.  
+- **Models of Word Usage Graphs for Lexical Semantic Change Detection and Cognitive Insights into Word Meaning**.  
 Invited Talk at Department of Translation and Language Sciences at Universitat Pompeu Fabra, Barcelona, Spain, March 20, 2025.  
+ [[slides]](https://garrafao.github.io/publications/250320-wug-models-slides.pdf)    
 - **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
 Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
  [[slides]](https://garrafao.github.io/publications/250311-ids-slides.pdf)    [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
@@ -160,7 +161,7 @@ Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang
 - **Human and Computational Measurement of Lexical Semantic Change**. 2023.  
 Dominik Schlechtweg  
 University of Stuttgart, Stuttgart, Germany  
- [[pdf]](http://dx.doi.org/10.18419/opus-12833)  [[slides]](https://garrafao.github.io/publications/220324-thesis-slides.pdf)     [[bib]](publications/bib/Schlechtweg2023measurement.bib) 
+ [[pdf]](http://dx.doi.org/10.18419/opus-12833)  [[slides]](https://garrafao.github.io/publications/220324-thesis-slides.pdf)     [[bib]](publications/bib/Schlechtweg2023measurement.bib) *PhD thesis*
 - **LSCDiscovery: A shared task on semantic change discovery and detection in Spanish**. 2022.  
 Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg  
  Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change  
@@ -294,7 +295,7 @@ Dominik Schlechtweg
 - Severin Laicher. **Historical Word Sense Clustering with Deep Contextualised Word Embeddings** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/200924-historical-slides.pdf)   
 - Enrique Castaneda. **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).      
 - Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
-- Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
+- Sachin Yadav. **Towards Automating Text Annotation: A Case Study on Semantic Proximity Annotation using GPT-4** (Student project).   [[pdf]](https://arxiv.org/abs/2407.04130)    
 - Pauline Sander (Software developer)
 - Jing Chen (Internship)
 - Alex Astolfi (Internship)
