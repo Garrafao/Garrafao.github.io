@@ -28,11 +28,12 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
-- **DURel Annotation Tool**.  
+- **DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**.  
 Invited Talk at Historical Studies Department at State University of Milan, Italy, March 28, 2025.  
+ [[slides]](https://garrafao.github.io/publications/250328-durel-tool-slides.pdf)    [[link]](https://www.unimi.it/en/ugov/ou-structure/department-historical-studies)
 - **Models of Word Usage Graphs for Lexical Semantic Change Detection and Cognitive Insights into Word Meaning**.  
 Invited Talk at Department of Translation and Language Sciences at Universitat Pompeu Fabra, Barcelona, Spain, March 20, 2025.  
- [[slides]](https://garrafao.github.io/publications/250320-wug-models-slides.pdf)    
+ [[slides]](https://garrafao.github.io/publications/250320-wug-models-slides.pdf)    [[link]](https://www.upf.edu/web/traduccio/grupsderecerca#5)
 - **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**.  
 Invited Talk at Annual Meeting of the Leibniz Institute for the German Language, Mannheim, Germany, March 11, 2025.  
  [[slides]](https://garrafao.github.io/publications/250311-ids-slides.pdf)    [[link]](https://www.ids-mannheim.de/aktuell/veranstaltungen/tagungen/2025/programm/)
@@ -40,7 +41,7 @@ Invited Talk at Annual Meeting of the Leibniz Institute for the German Language,
 Invited Talk at Annual Meeting of the German Linguistic Society, Mainz, Germany, March 4, 2025.  
  [[slides]](https://garrafao.github.io/publications/250304-tutorial-slides.pdf)    [[link]](https://converia.uni-mainz.de/frontend/index.php?page_id=4621)
 - **Hands-On Tutorial: Labeling with LLM and Human-in-the-Loop**.  
-Tutorial presentation at Tutorial given at COLING, Abu Dhabi, UAE, January 19, 2025.  
+Tutorial presentation at COLING, Abu Dhabi, UAE, January 19, 2025.  
     [[link]](https://arxiv.org/abs/2411.04637)
 - **DURel \& PhiTag: Two public, open-source text annotation tools**.  
 Invited Talk at Course ``Ingénierie Linguistique'' at University of Geneva, November 8, 2024.  
