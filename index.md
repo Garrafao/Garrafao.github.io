@@ -1,6 +1,6 @@
 # Dominik Schlechtweg
 
-I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. Since February 2022, I am an independent [research group leader](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/cik/) at the IMS (University of Stuttgart) working in the 6-year research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/). I am also the leader of the [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://durel.ims.uni-stuttgart.de/) projects where we develop open source text annotation platforms.
+I did my PhD at the IMS (University of Stuttgart) working together with [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/en/institute/team/Schulte-im-Walde-00001/) on automatic detection of lexical semantic change. I held a PhD scholarship from Konrad Adenauer Foundation. After my PhD I did a research internship with [Katrin Erk](https://www.katrinerk.com/) at the University of Texas, Austin. From February 2022 to June 2025, I was an independent [research group leader](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/cik/) at the IMS (University of Stuttgart) working in the research program [Change is Key!](https://www.ims.uni-stuttgart.de/forschung/projekte/change-is-key/). Since July 2025, I am working as a postdoctoral researcher at the IMS (University of Stuttgart). I am also the leader of the [PhiTag](https://phitag.ims.uni-stuttgart.de/) and [DURel](https://durel.ims.uni-stuttgart.de/) projects where we develop open source text annotation platforms.
 
  [Email](https://www.ims.uni-stuttgart.de/institut/team/Schlechtweg-00003/), [Github](https://github.com/Garrafao), [Google Scholar](https://scholar.google.com/citations?hl=en&user=7JjqFPoAAAAJ), [LinkedIn](https://www.linkedin.com/in/dominik-schlechtweg-594935254/)
 <details>
@@ -106,7 +106,7 @@ Dominik Schlechtweg
 - **Automatic Non-recorded Sense Detection for Swedish through Word Sense Induction with fine-tuned Word-in-Context models**. 2025.  
 Dominik Schlechtweg, Emma Sköldberg, Shafqat Mumtaz Virk, James White, Simon Hengchen  
  Electronic lexicography in the 21st century  
-      [[bib]](publications/bib/Skoeldberg2025automatic.bib) *accepted*
+      [[bib]](publications/bib/Schlechtweg2025automatic.bib) *accepted*
 - **CoMeDi Shared Task: Median Judgment Classification \& Mean Disagreement Ranking with Ordinal Word-in-Context Judgments**. 2025.  
 Dominik Schlechtweg, Tejaswi Choppa, Wei Zhao, Michael Roth  
  Proceedings of Context and Meaning: Navigating Disagreements in NLP Annotation, 33-47  
@@ -289,7 +289,7 @@ Dominik Schlechtweg
 <summary>Supervision</summary>
 
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
-- Sachin Yadav. **Optimizing Word-in-Context models for ordinal-scale prediction** (Master thesis).      
+- Sachin Yadav. **XL-DURel: Finetuning Sentence Transformers for Ordinal Word-in-Context Classification** (Master thesis).      
 - Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).    [[slides]](https://garrafao.github.io/publications/250228-dusd-slides.pdf)   
 - Nash Whaley. **Human and Computational Measurement of Semantic Relations** (Master thesis).      
 - Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).    [[slides]](https://garrafao.github.io/publications/250117-disagreement-slides.pdf)   
