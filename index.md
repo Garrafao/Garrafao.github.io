@@ -28,6 +28,9 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **Tutorial on Lexical Semantic Change Detection**.  
+Invited Talk at 2nd ENEOLI Training School on Lexical Innovation in Bucharest, Romania, April 14-17, 2026.  
+ [[slides]](https://github.com/Garrafao/LSCDIntro)    [[link]](https://eneoli.eu/event/2nd-eneoli-training-school-on-lexical-innovation/)
 - **Word Usage Graphs as Graded Models of Word Meaning**.  
 Job talk for Junior Professorship in NLP at School of Mathematics and Computer Science, University of Leipzig, Germany, May 12, 2025.  
 - **DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**.  
@@ -101,7 +104,23 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
-- **Automatische Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**. 2026.  
+- **The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**. 2026.  
+Dominik Schlechtweg, Sachin Yadav, Nikolay Arefyev  
+ Proceedings of *SEM 2026: The 15th Joint Conference on Lexical and Computational Semantics  
+ [[pdf]](https://arxiv.org/abs/2404.00176)  [[slides]](https://garrafao.github.io/publications/230905-benchmark-slides.pdf)     [[bib]](publications/bib/schlechtweg2026lscd.bib) 
+- **Syntactic language change in English and German: Metrics, parsers, and convergences**. 2026.  
+Yanran Chen, Wei Zhao, Anne Breitbarth, Anne Breitbarth, Dominik Schlechtweg, Steffen Eger  
+ PLOS ONE, 1-33  
+ [[pdf]](https://doi.org/10.1371/journal.pone.0346096)      [[bib]](publications/bib/Chen2026syntacticchange.bib) 
+- **Insights from Transfer Learning Experiments with Word-in-Context and Word Sense Disambiguation Models**. 2026.  
+Alp Mujko, Dominik Schlechtweg  
+ LREC  
+  [[slides]](https://garrafao.github.io/publications/260401-transfer-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-transfer-poster.pdf)    [[bib]](publications/bib/Mujko2026transfer.bib) 
+- **APODICTUS: Automatic Processing Of DICTionary Update candidateS**. 2026.  
+Felix Blessing, Johannes S. Sax, Julian Kaufmann, Wei Zhao, Nikolay Arefyev, Dominik Schlechtweg  
+ LREC  
+  [[slides]](https://garrafao.github.io/publications/260401-apodictus-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-apodictus-poster.pdf)    [[bib]](publications/bib/Blessing2026apodictus.bib) 
+- **Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**. 2026.  
 Dominik Schlechtweg  
  Deutsch im Wandel, 123-145  
  [[pdf]](https://doi.org/10.1515/9783112240151-008)  [[slides]](https://garrafao.github.io/publications/250311-ids-slides.pdf)     [[bib]](publications/bib/Schlechtweg2026bedeutungswandelerkennung.bib) 
@@ -173,10 +192,6 @@ arXiv
 Jonathan Lautenschlager, Simon Hengchen,  Emma Sköldberg, Dominik Schlechtweg  
 arXiv  
  [[pdf]](https://arxiv.org/abs/2403.02285)  [[slides]](https://garrafao.github.io/publications/240126-usd-slides.pdf)     [[bib]](publications/bib/Lautenschlager2024nonrecorded.bib) 
-- **The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**. 2025.  
-Dominik Schlechtweg, Sachin Yadav, Nikolay Arefyev  
-arXiv  
- [[pdf]](https://arxiv.org/abs/2404.00176)  [[slides]](https://garrafao.github.io/publications/230905-benchmark-slides.pdf)     [[bib]](publications/bib/schlechtweg2025lscd.bib) 
 - **ChiWUG: A Graph-based Evaluation Dataset for Chinese Lexical Semantic Change Detection**. 2023.  
 Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Jelena Prokic, Chu-Ren Huang  
  Proceedings of the 4th International Workshop on Computational Approaches to Historical Language Change  
@@ -192,7 +207,7 @@ Frank D. Zamora-Reina, Felipe Bravo-Marquez, Dominik Schlechtweg
 - **DiaWUG: A Dataset for Diatopic Lexical Semantic Variation in Spanish**. 2022.  
 Gioia Baldissin, Dominik Schlechtweg, Sabine Schulte im Walde  
  Proceedings of the 13th Language Resources and Evaluation Conference  
- [[pdf]](https://aclanthology.org/2022.lrec-1.278/)  [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)  [[poster]](https://garrafao.github.io/publications/220615-diawug-poster.pdf)  [[video]](https://s3.eu-west-2.wasabisys.com/lrec2022/posters/1029.mp4)   [[bib]](publications/bib/Baldissin2022diawug.bib) 
+ [[pdf]](https://aclanthology.org/2022.lrec-1.278/)  [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)  [[poster]](https://garrafao.github.io/publications/220615-diawug-poster.pdf)    [[bib]](publications/bib/Baldissin2022diawug.bib) 
 - **Modeling Sense Structure in Word Usage Graphs with the Weighted Stochastic Block Model**. 2021.  
 Dominik Schlechtweg, Enrique Castaneda, Jonas Kuhn, Sabine Schulte im Walde  
  Proceedings of *SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics, 241-251  
@@ -299,9 +314,12 @@ Dominik Schlechtweg
 <summary>Supervision</summary>
 
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
+- Sven Dorst. **Multimodal language models for measurement of semantic relations** (Master thesis).      
+- Setareh Jahandideh. **Lexical semantic change discovery in Persian** (Master thesis).      
+- Alp Mujko. **Bridging the Thresholding Gap: Ordinal Classification for Word-in-Context using Cumulative Link Models** (Master thesis).      
 - Sachin Yadav. **XL-DURel: Finetuning Sentence Transformers for Ordinal Word-in-Context Classification** (Master thesis).   [[pdf]](https://doi.org/10.18419/opus-17531)  [[slides]](https://garrafao.github.io/publications/250725-xldurel-slides.pdf)   
-- Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).    [[slides]](https://garrafao.github.io/publications/250228-dusd-slides.pdf)   
 - Nash Whaley. **Human and Computational Measurement of Semantic Relations** (Master thesis).    [[slides]](https://garrafao.github.io/publications/251010-relations-slides.pdf)   
+- Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).    [[slides]](https://garrafao.github.io/publications/250228-dusd-slides.pdf)   
 - Tejaswi Choppa. **Supervised Semantic Proximity Noise and Disagreement Detection** (Master thesis).   [[pdf]](https://doi.org/10.18419/opus-17529)  [[slides]](https://garrafao.github.io/publications/250117-disagreement-slides.pdf)   
 - Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
 - Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)   
@@ -343,6 +361,8 @@ Dominik Schlechtweg
 <details>
 <summary>Teaching</summary>
 
+- **Lexical Semantic Change Detection**  
+Tutorial, Apr. 26, ENEOLI, Bucharest
 - **Logik und diskrete Strukturen für die Maschinelle Sprachverarbeitung**  
 Lecture, SS25, Institute for Natural Language Processing, University of Stuttgart
 - **Lexical Semantic Change Detection**  
