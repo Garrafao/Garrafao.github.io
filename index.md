@@ -104,12 +104,16 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
+- **Selecting and controlling sense granularity for lexical semantic change detection**. 2026.  
+Denis V. Kokosinskii, Dominik Schlechtweg, Nicolay V. Arefyev  
+ Program Systems: Theory and Applications, 103-146  
+ [[pdf]](http://mi.mathnet.ru/ps504)      [[bib]](publications/bib/Kokosinskii2026granularity.bib) 
 - **The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**. 2026.  
-Dominik Schlechtweg, Sachin Yadav, Nikolay Arefyev  
+Dominik Schlechtweg, Sachin Yadav, Jonas Kuhn, Nikolay Arefyev  
  Proceedings of *SEM 2026: The 15th Joint Conference on Lexical and Computational Semantics  
- [[pdf]](https://arxiv.org/abs/2404.00176)  [[slides]](https://garrafao.github.io/publications/230905-benchmark-slides.pdf)     [[bib]](publications/bib/schlechtweg2026lscd.bib) 
+ [[pdf]](https://arxiv.org/abs/2404.00176)  [[slides]](https://garrafao.github.io/publications/260604-benchmark-slides.pdf)     [[bib]](publications/bib/schlechtweg2026lscd.bib) 
 - **Syntactic language change in English and German: Metrics, parsers, and convergences**. 2026.  
-Yanran Chen, Wei Zhao, Anne Breitbarth, Anne Breitbarth, Dominik Schlechtweg, Steffen Eger  
+Yanran Chen, Wei Zhao, Anne Breitbarth, Manuel Stoeckel, Alexander Mehler, Dominik Schlechtweg, Steffen Eger  
  PLOS ONE, 1-33  
  [[pdf]](https://doi.org/10.1371/journal.pone.0346096)      [[bib]](publications/bib/Chen2026syntacticchange.bib) 
 - **Insights from Transfer Learning Experiments with Word-in-Context and Word Sense Disambiguation Models**. 2026.  
@@ -316,7 +320,7 @@ Dominik Schlechtweg
 - Frank David Zamora Reina. **Lexical Semantic Change Detection in Spanish** (PhD thesis).      
 - Sven Dorst. **Multimodal language models for measurement of semantic relations** (Master thesis).      
 - Setareh Jahandideh. **Lexical semantic change discovery in Persian** (Master thesis).      
-- Alp Mujko. **Bridging the Thresholding Gap: Ordinal Classification for Word-in-Context using Cumulative Link Models** (Master thesis).      
+- Alp Mujko. **Bridging the Thresholding Gap: Ordinal Classification for Word-in-Context using Cumulative Link Models** (Master thesis).    [[slides]](https://garrafao.github.io/publications/260609-clm-slides.pdf)   
 - Sachin Yadav. **XL-DURel: Finetuning Sentence Transformers for Ordinal Word-in-Context Classification** (Master thesis).   [[pdf]](https://doi.org/10.18419/opus-17531)  [[slides]](https://garrafao.github.io/publications/250725-xldurel-slides.pdf)   
 - Nash Whaley. **Human and Computational Measurement of Semantic Relations** (Master thesis).    [[slides]](https://garrafao.github.io/publications/251010-relations-slides.pdf)   
 - Silvia Cunico. **Tackling Multilingual Unknown Sense Detection Using a Few-Shot Learning Approach with a Multi-Task Architecture** (Master thesis).    [[slides]](https://garrafao.github.io/publications/250228-dusd-slides.pdf)   
@@ -324,6 +328,8 @@ Dominik Schlechtweg
 - Tuo Zhang. **An ordinal formulation of the graded Word-in-Context task** (Master thesis).      
 - Gioia Baldissin. **Unsupervised detection of diatopic lexical semantic variation in Spanish** (Master thesis).    [[slides]](https://garrafao.github.io/publications/220607-diawug-slides.pdf)   
 - Reem Alatrash. **Computational Analysis of Syntactic and Semantic Variation in Kiezdeutsch** (Master thesis).    [[slides]](https://garrafao.github.io/publications/200115-kiezdeutsch-slides.pdf)   
+- Anna Wachtel. **Clustering for Lexical Semantic Change Detection** (Bachelor thesis).      
+- Georgios Sandalidis. **Probabilistic Correlation Clustering of Word Usage Graphs** (Bachelor thesis).      
 - Felix Blessing. **Automatic Prioritization of Dictionary Update Candidates** (Bachelor thesis).   [[pdf]](https://doi.org/10.18419/opus-17543)  [[slides]](https://garrafao.github.io/publications/251014-apodictus-slides.pdf)   
 - Julian Kaufmann. **Usage Retrieval for Dictionary Headwords With Applications in Unknown Sense Detection** (Bachelor thesis).   [[pdf]](https://doi.org/10.18419/opus-17542)  [[slides]](https://garrafao.github.io/publications/251014-apodictus-slides.pdf)   
 - Johannes Sax. **Sense Definition Generation and how it can improve WSD** (Bachelor thesis).   [[pdf]](https://doi.org/10.18419/opus-17541)  [[slides]](https://garrafao.github.io/publications/251014-apodictus-slides.pdf)   
@@ -339,7 +345,8 @@ Dominik Schlechtweg
 - Severin Laicher. **Historical Word Sense Clustering with Deep Contextualised Word Embeddings** (Bachelor thesis).    [[slides]](https://garrafao.github.io/publications/200924-historical-slides.pdf)   
 - Enrique Castaneda. **Efficient Online Word-Sense Clustering on Human Relatedness Judgments** (Bachelor thesis).      
 - Christian Bartsch. **Predicting Synchronic and Diachronic Semantic Generality with Models of Hypernymy** (Bachelor thesis).      
-- Alp Mujko. **Transfer learning effects between Word-in-Context and Word Sense Disambiguation in SBERT models** (Student project).      
+- Tao Xu. **Ordinal Word-in-Context Classification with Non-Lexical Splits** (Student project).      
+- Alp Mujko. **Transfer learning effects between Word-in-Context and Word Sense Disambiguation in SBERT models** (Student project).    [[slides]](https://garrafao.github.io/publications/260401-transfer-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-transfer-poster.pdf)  
 - Sachin Yadav, Abhishek Chugh, Pawan Waldia. **Reputation Dimension and Sentiment Classification on News Data** (Student project).      
 - Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
 - Pauline Sander (Software developer)
