@@ -28,6 +28,13 @@ I did my PhD at the IMS (University of Stuttgart) working together with [Sabine 
 <details>
 <summary>Talks (selected)</summary>
 
+- **Probabilistic models of human-annotated semantic proximity graphs**.  
+Invited Talk at Linguistics department, University of Tübingen, Germany, October 19, 2026.  
+- **Probabilistic models of human-annotated semantic proximity graphs**.  
+Invited Talk at Linguistics department, University of Massachusetts, Amherst, September 18, 2026.  
+- **Human and Computational Measurement of Semantic Relations**.  
+Workshop Talk at 59th Annual Meeting of the Societas Linguistica Europaea, August 26-29, 2026.  
+ [[slides]](https://garrafao.github.io/publications/260828-relations-slides.pdf)    [[link]](https://societaslinguistica.eu/sle2026/)
 - **Tutorial on Lexical Semantic Change Detection**.  
 Invited Talk at 2nd ENEOLI Training School on Lexical Innovation in Bucharest, Romania, April 14-17, 2026.  
  [[slides]](https://github.com/Garrafao/LSCDIntro)    [[link]](https://eneoli.eu/event/2nd-eneoli-training-school-on-lexical-innovation/)
@@ -58,15 +65,12 @@ Invited Talk at Toloka AI, May 13, 2024.
  [[slides]](https://garrafao.github.io/publications/240513-phitag-slides.pdf)    
 - **Lexical Semantic Change Detection**.  
 Invited Talk at Indiana University, Bloomington, January 18, 2024.  
- [[slides]](https://garrafao.github.io/publications/240110-LSCD-slides.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/240118-lscd-indiana.mp4)  
+ [[slides]](https://garrafao.github.io/publications/240110-LSCD-slides.pdf)    
 - **Open Problems and Applications in Lexical Semantic Change Detection**.  
 Invited Talk at Seminar course „Diachronic Language Models“ at the University of Heidelberg, Germany, December 19, 2023.  
 - **The LSCD Benchmark -- a test bed for diachronic meaning tasks**.  
 Talk at Workshop on Computational models of diachronic language change, 26th International Conference on Historical Linguistics at the University of Heidelberg, Germany, September 7th, 2023.  
  [[slides]](https://garrafao.github.io/publications/230905-benchmark-slides.pdf)    [[link]](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/workshops.html)
-- **The operationalization of word senses**.  
-Talk at Workshop on "Recent advances in ChangeIsKey!" in Stuttgart, Germany, August 24th, 2023.  
- [[slides]](https://garrafao.github.io/publications/230824-operationalization-slides.pdf)    [[link]](https://www.changeiskey.org/event/2023-ims-stuttgart/)
 - **DURel Annotation Tool - Prospects on a Workbench for Lexicographers**.  
 Talk at Kick-Off Event of the RJ Research Program "Change is Key!", Gothenburg, September 8th, 2022.  
  [[slides]](https://garrafao.github.io/publications/220908-slides-durel-tool.pdf)   [[video]](https://www2.ims.uni-stuttgart.de/video/durel-tool/230623-durel-tool-demo.mp4)  
@@ -104,6 +108,10 @@ Talk at SemRel research group at IMS, University of Stuttgart, February 1st, 201
 <details>
 <summary>Publications</summary>
 
+- **Lexical semantic change detection: A survey of tasks, benchmarks, models, and potential impacts in digital humanities and social sciences**. 2026.  
+Jing Chen, Emmanuele Chersoni, Dominik Schlechtweg, Chu-Ren Huang  
+ Natural Language Processing, 1-39  
+ [[pdf]](https://www.cambridge.org/core/journals/natural-language-processing/article/lexical-semantic-change-detection-a-survey-of-tasks-benchmarks-models-and-potential-impacts-in-digital-humanities-and-social-sciences/ECBF8E39442831EDB77BBA8C8B3D8EDF)      [[bib]](publications/bib/Chen2026lscdsurvey.bib) 
 - **Selecting and controlling sense granularity for lexical semantic change detection**. 2026.  
 Denis V. Kokosinskii, Dominik Schlechtweg, Nicolay V. Arefyev  
  Program Systems: Theory and Applications, 103-146  
@@ -118,12 +126,12 @@ Yanran Chen, Wei Zhao, Anne Breitbarth, Manuel Stoeckel, Alexander Mehler, Domin
  [[pdf]](https://doi.org/10.1371/journal.pone.0346096)      [[bib]](publications/bib/Chen2026syntacticchange.bib) 
 - **Insights from Transfer Learning Experiments with Word-in-Context and Word Sense Disambiguation Models**. 2026.  
 Alp Mujko, Dominik Schlechtweg  
- LREC  
-  [[slides]](https://garrafao.github.io/publications/260401-transfer-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-transfer-poster.pdf)    [[bib]](publications/bib/Mujko2026transfer.bib) 
-- **APODICTUS: Automatic Processing Of DICTionary Update candidateS**. 2026.  
+ Proceedings of the Fifteenth Language Resources and Evaluation Conference, 10009-10019  
+ [[pdf]](https://aclanthology.org/2026.lrec-1.785/)  [[slides]](https://garrafao.github.io/publications/260401-transfer-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-transfer-poster.pdf)    [[bib]](publications/bib/Mujko2026transfer.bib) 
+- **APODICTUS: Automatic Processing of DICTionary Update candidateS**. 2026.  
 Felix Blessing, Johannes S. Sax, Julian Kaufmann, Wei Zhao, Nikolay Arefyev, Dominik Schlechtweg  
- LREC  
-  [[slides]](https://garrafao.github.io/publications/260401-apodictus-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-apodictus-poster.pdf)    [[bib]](publications/bib/Blessing2026apodictus.bib) 
+ Proceedings of the Fifteenth Language Resources and Evaluation Conference, 11800-11812  
+ [[pdf]](https://aclanthology.org/2026.lrec-1.924/)  [[slides]](https://garrafao.github.io/publications/260401-apodictus-slides.pdf)  [[poster]](https://garrafao.github.io/publications/260401-apodictus-poster.pdf)    [[bib]](publications/bib/Blessing2026apodictus.bib) 
 - **Bedeutungswandelerkennung in der Computerlinguistik: Ein Überblick**. 2026.  
 Dominik Schlechtweg  
  Deutsch im Wandel, 123-145  
@@ -350,9 +358,11 @@ Dominik Schlechtweg
 - Sachin Yadav, Abhishek Chugh, Pawan Waldia. **Reputation Dimension and Sentiment Classification on News Data** (Student project).      
 - Sachin Yadav. **Implementing and evaluating a computational annotator in PhiTag through prompting ChatGPT with task-specific data** (Student project).      
 - Pauline Sander (Software developer)
+- Marta García Casado (Internship)
 - Jing Chen (Internship)
 - Alex Astolfi (Internship)
-- Vaibhav Jain (Internship)
+- Vaibhav Jain (Internship (online))
+- Ran Li (Student researcher)
 - Christina Bohnacker (Student researcher)
 - James White (Student researcher)
 - Arshan Dalili (Student researcher)
